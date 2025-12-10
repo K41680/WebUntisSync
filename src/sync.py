@@ -74,13 +74,11 @@ def get_element_id(session, config, session_id):
     
     if 'result' in result and len(result['result']) > 0:
         classes = result['result']
-        # Simple logic: take the first class found. 
-        # You can add logic here to search for "1IT3" if needed.
         first_class = classes[0]
         print(f"📚 Found class: {first_class['name']} (ID: {first_class['id']})")
         return first_class['id'], 1
     
-    # 2. If no classes found, try fetching student ID (for personal timetable)
+    # 2. If no classes found, try fetching student ID
     data = {
         "id": "WebUntisSync", 
         "method": "getStudents", 
@@ -98,42 +96,67 @@ def get_element_id(session, config, session_id):
     raise Exception("Could not find any Class or Student ID.")
 
 def get_timetable(session, config, session_id, element_id, element_type, start_date, end_date):
-    """Fetch timetable data from WebUntis"""
-    url = f"https://{config['server']}/WebUntis/jsonrpc.do?school={config['school']}"
+    """Fetch timetable data from WebUntis in chunks to avoid school year errors"""
+    full_timetable = []
     
-    data = {
-        "id": "WebUntisSync",
-        "method": "getTimetable",
-        "params": {
-            "options": {
-                "element": {
-                    "id": element_id,
-                    "type": element_type
-                },
-                "startDate": start_date.strftime("%Y%m%d"),
-                "endDate": end_date.strftime("%Y%m%d"),
-                "showBooking": True,
-                "showInfo": True,
-                "showSubstText": True,
-                "showLsText": True,
-                "showStudentgroup": True,
-                "klasseFields": ["id", "name", "longname"],
-                "roomFields": ["id", "name", "longname"],
-                "subjectFields": ["id", "name", "longname"],
-                "teacherFields": ["id", "name", "longname"]
-            }
-        },
-        "jsonrpc": "2.0"
-    }
+    # We split the request into chunks of 28 days (4 weeks)
+    # This prevents the 'startDate and endDate are not within a single school year' error
+    chunk_size = 28
+    current_start = start_date
     
-    headers = {"Cookie": f"JSESSIONID={session_id}"}
-    response = session.post(url, json=data, headers=headers)
-    result = response.json()
+    print(f"🔄 Fetching timetable in chunks from {start_date} to {end_date}...")
+
+    while current_start < end_date:
+        current_end = min(current_start + timedelta(days=chunk_size), end_date)
+        
+        # print(f"   ⬇️ Fetching chunk: {current_start} to {current_end}...")
+        
+        url = f"https://{config['server']}/WebUntis/jsonrpc.do?school={config['school']}"
+        data = {
+            "id": "WebUntisSync",
+            "method": "getTimetable",
+            "params": {
+                "options": {
+                    "element": {
+                        "id": element_id,
+                        "type": element_type
+                    },
+                    "startDate": current_start.strftime("%Y%m%d"),
+                    "endDate": current_end.strftime("%Y%m%d"),
+                    "showBooking": True,
+                    "showInfo": True,
+                    "showSubstText": True,
+                    "showLsText": True,
+                    "showStudentgroup": True,
+                    "klasseFields": ["id", "name", "longname"],
+                    "roomFields": ["id", "name", "longname"],
+                    "subjectFields": ["id", "name", "longname"],
+                    "teacherFields": ["id", "name", "longname"]
+                }
+            },
+            "jsonrpc": "2.0"
+        }
+        
+        headers = {"Cookie": f"JSESSIONID={session_id}"}
+        
+        try:
+            response = session.post(url, json=data, headers=headers)
+            result = response.json()
+            
+            if 'error' in result:
+                # Log error but try to continue with next chunk (might be a specific week issue)
+                print(f"   ⚠️ Error fetching chunk {current_start} to {current_end}: {result['error']['message']}")
+            else:
+                items = result.get('result', [])
+                full_timetable.extend(items)
+                
+        except Exception as e:
+            print(f"   ⚠️ Exception fetching chunk: {e}")
+
+        # Move to next chunk (start date is end date + 1 day)
+        current_start = current_end + timedelta(days=1)
     
-    if 'error' in result:
-        raise Exception(f"Timetable fetch failed: {result['error']}")
-    
-    return result['result']
+    return full_timetable
 
 def parse_webuntis_time(date_int, time_int):
     """Convert WebUntis date (int) and time (int) format to a datetime object"""
@@ -156,12 +179,12 @@ def sync_calendar():
     
     # --- DATE CONFIGURATION ---
     today = datetime.now().date()
-    # Fetch 3 months into the past
+    # Fetch 90 days into the past (approx 3 months)
     start_date = today - timedelta(days=90)
-    # Fetch 6 months into the future
+    # Fetch 180 days into the future (approx 6 months)
     end_date = today + timedelta(days=180)
     
-    print(f"📅 Fetching timetable from {start_date} to {end_date}...")
+    print(f"📅 Requesting timetable from {start_date} to {end_date}...")
     timetable = get_timetable(session, config, session_id, element_id, element_type, start_date, end_date)
     
     # ICS Calendar setup
@@ -185,7 +208,6 @@ def sync_calendar():
             start_dt = parse_webuntis_time(lesson['date'], lesson['startTime'])
             end_dt = parse_webuntis_time(lesson['date'], lesson['endTime'])
         except ValueError:
-            print(f"⚠️ Skipped invalid date/time in lesson ID {lesson.get('id')}")
             continue
         
         # Extract Data
@@ -194,7 +216,7 @@ def sync_calendar():
         rooms = [ro.get('longname') or ro.get('name', '') for ro in lesson.get('ro', [])]
         classes = [kl.get('longname') or kl.get('name', '') for kl in lesson.get('kl', [])]
         
-        # Construct Summary (Title)
+        # Construct Summary
         summary = ', '.join(subjects) if subjects else 'Lesson'
         if lesson.get('substText'):
             summary = f"{summary} ({lesson['substText']})"
@@ -204,31 +226,25 @@ def sync_calendar():
         event.add('dtend', timezone.localize(end_dt))
         
         # --- DESCRIPTION FORMATTING ---
+        # 1. Teachers / 2. Classes / 3. Info
         description_parts = []
         
-        # 1. Teachers
         if teachers:
             description_parts.append(' / '.join(teachers))
-            
-        # 2. Classes
         if classes:
             description_parts.append(' / '.join(classes))
-        
-        # 3. Extra Info
         if lesson.get('info'):
             description_parts.append(str(lesson['info']))
         if lesson.get('substText'):
             description_parts.append(str(lesson['substText']))
         
-        # Add description to event
         if description_parts:
             event.add('description', '\n'.join(description_parts))
         
-        # Location Field
         if rooms:
             event.add('location', ', '.join(rooms))
         
-        # Unique ID creation
+        # Unique ID
         event.add('uid', f"{lesson['id']}-{lesson['date']}-{lesson['startTime']}@webuntis-sync")
         
         cal.add_component(event)
@@ -247,5 +263,4 @@ if __name__ == '__main__':
         sync_calendar()
     except Exception as e:
         print(f"❌ Error: {e}")
-        # Exit with error code 1 so GitHub Actions knows it failed
         sys.exit(1)
