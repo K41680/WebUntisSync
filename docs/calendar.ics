@@ -4,42 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Data networks
-DTSTART;TZID=Europe/Brussels:20251112T090000
-DTEND;TZID=Europe/Brussels:20251112T110000
-UID:503165-20251112-900@webuntis-sync
-DESCRIPTION:Horsmans\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
- a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
- n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Linux
-DTSTART;TZID=Europe/Brussels:20251112T110000
-DTEND;TZID=Europe/Brussels:20251112T130000
-UID:510965-20251112-1100@webuntis-sync
-DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
- o
-LOCATION:02.07_B.VIA (38) Theorielokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Web technology
-DTSTART;TZID=Europe/Brussels:20251112T140000
-DTEND;TZID=Europe/Brussels:20251112T160000
-UID:523639-20251112-1400@webuntis-sync
-DESCRIPTION:Verhulst\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:03.05.ELL (49) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Databases
-DTSTART;TZID=Europe/Brussels:20251112T160000
-DTEND;TZID=Europe/Brussels:20251112T180000
-UID:504575-20251112-1600@webuntis-sync
-DESCRIPTION:De Pooter\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:03.05.ELL (49) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Programming principles
 DTSTART;TZID=Europe/Brussels:20251113T110000
 DTEND;TZID=Europe/Brussels:20251113T130000
