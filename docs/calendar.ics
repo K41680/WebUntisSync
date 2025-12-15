@@ -5,18 +5,6 @@ X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:Discover IT
-DTSTART;TZID=Europe/Brussels:20251114T090000
-DTEND;TZID=Europe/Brussels:20251114T180000
-UID:506327-20251114-900@webuntis-sync
-DESCRIPTION:Binnemans / Casteels / Charpentier / Michiels / Peeters / Van 
- Eyken / Vanhulle\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
- 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
- -----------------\nℹ️ Discover Day
-LOCATION:01.06.ELL (24) Gaming & VR\, 01.08_1.ELL (144) Aula\, 01.08_2.ELL
-  (125) Aula\, 01.08_3.ELL (144) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Discover IT
 DTSTART;TZID=Europe/Brussels:20251117T140000
 DTEND;TZID=Europe/Brussels:20251117T160000
 UID:506321-20251117-1400@webuntis-sync
