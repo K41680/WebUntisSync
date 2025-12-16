@@ -80,7 +80,7 @@ DTEND;TZID=Europe/Brussels:20251119T130000
 UID:510971-20251119-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:02.06_B.VIA (40) Projectlokaal
+LOCATION:02.06_B.VIA (38) Theorielokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web technology
@@ -563,7 +563,7 @@ DTEND;TZID=Europe/Brussels:20251215T130000
 UID:1197511-20251215-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:02.06_B.VIA (40) Projectlokaal
+LOCATION:02.06_B.VIA (38) Theorielokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open labo IT
@@ -669,7 +669,7 @@ DTEND;TZID=Europe/Brussels:20251219T110000
 UID:1213290-20251219-900@webuntis-sync
 DESCRIPTION:Peeters\n1IT2a / 1IT2b / 1IT3a / 1IT3b\n--------------------\n
  ℹ️ Labo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -698,9 +698,9 @@ SUMMARY:Web technology
 DTSTART;TZID=Europe/Brussels:20260106T090000
 DTEND;TZID=Europe/Brussels:20260106T110000
 UID:1246858-20260106-900@webuntis-sync
-DESCRIPTION:Bollaert Hiram / Michiels / Possemiers / Van Eyken\n1IT1a / 1I
- T1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n-----
- ---------------\nℹ️ Digitaal vaardigheid
+DESCRIPTION:Bollaert / Michiels / Possemiers / Van Eyken\n1IT1a / 1IT1b / 
+ 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n-----------
+ ---------\nℹ️ Digitaal vaardigheid
 LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
  4) Aula
 END:VEVENT
