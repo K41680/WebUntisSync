@@ -1424,17 +1424,6 @@ DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
 LOCATION:FICT.LES.MDI (50) Fictief Leslokaal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Analysis
-DTSTART;TZID=Europe/Brussels:20260324T160000
-DTEND;TZID=Europe/Brussels:20260324T180000
-UID:1324734-20260324-1600@webuntis-sync
-DESCRIPTION:Van Eyken\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 /
-  1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n-------------------
- -\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260325T140000
 DTEND;TZID=Europe/Brussels:20260325T170000
