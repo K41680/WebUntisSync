@@ -574,7 +574,7 @@ DTEND;TZID=Europe/Brussels:20251219T110000
 UID:1213290-20251219-900@webuntis-sync
 DESCRIPTION:Peeters\n1IT2a / 1IT2b / 1IT3a / 1IT3b\n--------------------\n
  ℹ️ Labo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
