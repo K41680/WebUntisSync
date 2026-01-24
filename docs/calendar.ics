@@ -4,15 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Linux
-DTSTART;TZID=Europe/Brussels:20251124T110000
-DTEND;TZID=Europe/Brussels:20251124T130000
-UID:1197493-20251124-1100@webuntis-sync
-DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
- o
-LOCATION:03.11.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Web technology
 DTSTART;TZID=Europe/Brussels:20251125T090000
 DTEND;TZID=Europe/Brussels:20251125T110000
