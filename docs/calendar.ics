@@ -4,42 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Business processes
-DTSTART;TZID=Europe/Brussels:20251127T090000
-DTEND;TZID=Europe/Brussels:20251127T110000
-UID:500532-20251127-900@webuntis-sync
-DESCRIPTION:Serneels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
- a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b 
- / 1IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programming principles
-DTSTART;TZID=Europe/Brussels:20251127T110000
-DTEND;TZID=Europe/Brussels:20251127T130000
-UID:514596-20251127-1100@webuntis-sync
-DESCRIPTION:Dams\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
- 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
- -----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Discover IT
-DTSTART;TZID=Europe/Brussels:20251127T140000
-DTEND;TZID=Europe/Brussels:20251127T160000
-UID:506153-20251127-1400@webuntis-sync
-DESCRIPTION:Binnemans\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:03.09.ELL (30) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IoT experiments
-DTSTART;TZID=Europe/Brussels:20251127T160000
-DTEND;TZID=Europe/Brussels:20251127T180000
-UID:1208371-20251127-1600@webuntis-sync
-DESCRIPTION:Luyts\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Data networks
 DTSTART;TZID=Europe/Brussels:20251128T110000
 DTEND;TZID=Europe/Brussels:20251128T130000
