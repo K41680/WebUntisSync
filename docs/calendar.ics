@@ -4,36 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Linux
-DTSTART;TZID=Europe/Brussels:20251205T110000
-DTEND;TZID=Europe/Brussels:20251205T130000
-UID:511505-20251205-1100@webuntis-sync
-DESCRIPTION:De Magtige\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
- T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
- b\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Databases
-DTSTART;TZID=Europe/Brussels:20251205T140000
-DTEND;TZID=Europe/Brussels:20251205T160000
-UID:504389-20251205-1400@webuntis-sync
-DESCRIPTION:De Pooter\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT
- 4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b
- \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Databases
-DTSTART;TZID=Europe/Brussels:20251205T160000
-DTEND;TZID=Europe/Brussels:20251205T180000
-UID:504593-20251205-1600@webuntis-sync
-DESCRIPTION:De Pooter\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:03.04.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IoT experiments
 DTSTART;TZID=Europe/Brussels:20251208T090000
 DTEND;TZID=Europe/Brussels:20251208T110000
