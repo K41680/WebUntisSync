@@ -425,8 +425,7 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260203T140000
 DTEND;TZID=Europe/Brussels:20260203T160000
 UID:506975-20260203-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -453,7 +452,7 @@ SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260204T140000
 DTEND;TZID=Europe/Brussels:20260204T170000
 UID:499164-20260204-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -472,17 +471,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260205T110000
 DTEND;TZID=Europe/Brussels:20260205T120000
 UID:1326265-20260205-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260205T130000
 DTEND;TZID=Europe/Brussels:20260205T150000
-UID:1326268-20260205-1300@webuntis-sync
+UID:1380029-20260205-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -507,8 +506,7 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260206T140000
 DTEND;TZID=Europe/Brussels:20260206T170000
 UID:506981-20260206-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -531,9 +529,8 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260210T140000
 DTEND;TZID=Europe/Brussels:20260210T160000
-UID:506990-20260210-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380107-20260210-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -548,8 +545,8 @@ BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260211T140000
 DTEND;TZID=Europe/Brussels:20260211T170000
-UID:499176-20260211-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
+UID:1379978-20260211-1400@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -568,17 +565,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260212T110000
 DTEND;TZID=Europe/Brussels:20260212T120000
 UID:1326271-20260212-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260212T130000
 DTEND;TZID=Europe/Brussels:20260212T150000
-UID:1326274-20260212-1300@webuntis-sync
+UID:1380035-20260212-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -604,8 +601,7 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260213T140000
 DTEND;TZID=Europe/Brussels:20260213T170000
 UID:506996-20260213-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -628,9 +624,8 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260224T140000
 DTEND;TZID=Europe/Brussels:20260224T160000
-UID:507005-20260224-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380113-20260224-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -653,14 +648,6 @@ DESCRIPTION:De Vries\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:03.05.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arduino interfacing
-DTSTART;TZID=Europe/Brussels:20260225T140000
-DTEND;TZID=Europe/Brussels:20260225T170000
-UID:499188-20260225-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Web programming
 DTSTART;TZID=Europe/Brussels:20260226T090000
 DTEND;TZID=Europe/Brussels:20260226T110000
@@ -676,17 +663,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260226T110000
 DTEND;TZID=Europe/Brussels:20260226T120000
 UID:1326277-20260226-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260226T130000
 DTEND;TZID=Europe/Brussels:20260226T150000
-UID:1326280-20260226-1300@webuntis-sync
+UID:1380041-20260226-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -712,8 +699,7 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260227T140000
 DTEND;TZID=Europe/Brussels:20260227T170000
 UID:507011-20260227-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -736,9 +722,8 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260303T140000
 DTEND;TZID=Europe/Brussels:20260303T160000
-UID:507020-20260303-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380119-20260303-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -753,8 +738,8 @@ BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260304T140000
 DTEND;TZID=Europe/Brussels:20260304T170000
-UID:499200-20260304-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
+UID:1379981-20260304-1400@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -773,17 +758,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260305T110000
 DTEND;TZID=Europe/Brussels:20260305T120000
 UID:1326283-20260305-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260305T130000
 DTEND;TZID=Europe/Brussels:20260305T150000
-UID:1326286-20260305-1300@webuntis-sync
+UID:1380047-20260305-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -809,8 +794,7 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260306T140000
 DTEND;TZID=Europe/Brussels:20260306T170000
 UID:507026-20260306-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -833,9 +817,8 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260310T140000
 DTEND;TZID=Europe/Brussels:20260310T160000
-UID:507035-20260310-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380125-20260310-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -861,8 +844,8 @@ BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260311T140000
 DTEND;TZID=Europe/Brussels:20260311T170000
-UID:499212-20260311-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
+UID:1379984-20260311-1400@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -881,17 +864,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260312T110000
 DTEND;TZID=Europe/Brussels:20260312T120000
 UID:1326289-20260312-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260312T130000
 DTEND;TZID=Europe/Brussels:20260312T150000
-UID:1326292-20260312-1300@webuntis-sync
+UID:1380053-20260312-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -917,8 +900,7 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260313T140000
 DTEND;TZID=Europe/Brussels:20260313T170000
 UID:507041-20260313-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -941,9 +923,8 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260317T140000
 DTEND;TZID=Europe/Brussels:20260317T160000
-UID:507050-20260317-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380131-20260317-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -967,8 +948,8 @@ BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260318T140000
 DTEND;TZID=Europe/Brussels:20260318T170000
-UID:499224-20260318-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
+UID:1379987-20260318-1400@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -986,17 +967,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260319T110000
 DTEND;TZID=Europe/Brussels:20260319T120000
 UID:1326295-20260319-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260319T130000
 DTEND;TZID=Europe/Brussels:20260319T150000
-UID:1326298-20260319-1300@webuntis-sync
+UID:1380059-20260319-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1022,8 +1003,15 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260320T140000
 DTEND;TZID=Europe/Brussels:20260320T170000
 UID:507056-20260320-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
+LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arduino interfacing
+DTSTART;TZID=Europe/Brussels:20260323T100000
+DTEND;TZID=Europe/Brussels:20260323T130000
+UID:1379990-20260323-1000@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1046,17 +1034,16 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260324T140000
 DTEND;TZID=Europe/Brussels:20260324T160000
-UID:507065-20260324-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380137-20260324-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260325T140000
 DTEND;TZID=Europe/Brussels:20260325T170000
-UID:499236-20260325-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
+UID:1379993-20260325-1400@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1075,17 +1062,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260326T110000
 DTEND;TZID=Europe/Brussels:20260326T120000
 UID:1326301-20260326-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260326T130000
 DTEND;TZID=Europe/Brussels:20260326T150000
-UID:1326304-20260326-1300@webuntis-sync
+UID:1380065-20260326-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1111,8 +1098,7 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260327T140000
 DTEND;TZID=Europe/Brussels:20260327T170000
 UID:507071-20260327-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1135,9 +1121,8 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260331T140000
 DTEND;TZID=Europe/Brussels:20260331T160000
-UID:507080-20260331-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380143-20260331-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -1147,14 +1132,6 @@ DTEND;TZID=Europe/Brussels:20260401T130000
 UID:1324968-20260401-1100@webuntis-sync
 DESCRIPTION:De Vries\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:03.05.ELL (49) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arduino interfacing
-DTSTART;TZID=Europe/Brussels:20260401T140000
-DTEND;TZID=Europe/Brussels:20260401T170000
-UID:499248-20260401-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -1172,17 +1149,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260402T110000
 DTEND;TZID=Europe/Brussels:20260402T120000
 UID:1326307-20260402-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260402T130000
 DTEND;TZID=Europe/Brussels:20260402T150000
-UID:1326310-20260402-1300@webuntis-sync
+UID:1380071-20260402-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1208,8 +1185,15 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260403T140000
 DTEND;TZID=Europe/Brussels:20260403T170000
 UID:507086-20260403-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
+LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arduino interfacing
+DTSTART;TZID=Europe/Brussels:20260420T100000
+DTEND;TZID=Europe/Brussels:20260420T130000
+UID:1379996-20260420-1000@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1232,9 +1216,8 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260421T140000
 DTEND;TZID=Europe/Brussels:20260421T160000
-UID:507095-20260421-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380149-20260421-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -1260,8 +1243,8 @@ BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260422T140000
 DTEND;TZID=Europe/Brussels:20260422T170000
-UID:499260-20260422-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
+UID:1379999-20260422-1400@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1280,17 +1263,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260423T110000
 DTEND;TZID=Europe/Brussels:20260423T120000
 UID:1326313-20260423-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260423T130000
 DTEND;TZID=Europe/Brussels:20260423T150000
-UID:1326316-20260423-1300@webuntis-sync
+UID:1380077-20260423-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1316,8 +1299,7 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260424T140000
 DTEND;TZID=Europe/Brussels:20260424T170000
 UID:507101-20260424-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1340,9 +1322,8 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260428T140000
 DTEND;TZID=Europe/Brussels:20260428T160000
-UID:507110-20260428-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380155-20260428-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -1357,8 +1338,8 @@ BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260429T140000
 DTEND;TZID=Europe/Brussels:20260429T170000
-UID:499272-20260429-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
+UID:1380002-20260429-1400@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1377,17 +1358,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260430T110000
 DTEND;TZID=Europe/Brussels:20260430T120000
 UID:1326319-20260430-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260430T130000
 DTEND;TZID=Europe/Brussels:20260430T150000
-UID:1326322-20260430-1300@webuntis-sync
+UID:1380083-20260430-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1410,9 +1391,8 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260505T140000
 DTEND;TZID=Europe/Brussels:20260505T160000
-UID:507116-20260505-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380161-20260505-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -1438,8 +1418,8 @@ BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260506T140000
 DTEND;TZID=Europe/Brussels:20260506T170000
-UID:499284-20260506-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
+UID:1380005-20260506-1400@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1458,17 +1438,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260507T110000
 DTEND;TZID=Europe/Brussels:20260507T120000
 UID:1326325-20260507-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260507T130000
 DTEND;TZID=Europe/Brussels:20260507T150000
-UID:1326328-20260507-1300@webuntis-sync
+UID:1380089-20260507-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1494,8 +1474,7 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260508T140000
 DTEND;TZID=Europe/Brussels:20260508T170000
 UID:507122-20260508-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1518,9 +1497,8 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260512T140000
 DTEND;TZID=Europe/Brussels:20260512T160000
-UID:507131-20260512-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380167-20260512-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -1535,8 +1513,8 @@ BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260513T140000
 DTEND;TZID=Europe/Brussels:20260513T170000
-UID:499296-20260513-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
+UID:1380008-20260513-1400@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1551,9 +1529,8 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260519T140000
 DTEND;TZID=Europe/Brussels:20260519T160000
-UID:507137-20260519-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380173-20260519-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -1579,8 +1556,8 @@ BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260520T140000
 DTEND;TZID=Europe/Brussels:20260520T170000
-UID:499302-20260520-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
+UID:1380011-20260520-1400@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1599,17 +1576,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260521T110000
 DTEND;TZID=Europe/Brussels:20260521T120000
 UID:1326331-20260521-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260521T130000
 DTEND;TZID=Europe/Brussels:20260521T150000
-UID:1326334-20260521-1300@webuntis-sync
+UID:1380095-20260521-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1635,8 +1612,7 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260522T140000
 DTEND;TZID=Europe/Brussels:20260522T170000
 UID:507143-20260522-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1659,9 +1635,8 @@ BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260526T140000
 DTEND;TZID=Europe/Brussels:20260526T160000
-UID:507152-20260526-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+UID:1380179-20260526-1400@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie
 LOCATION:03.03.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -1676,8 +1651,8 @@ BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260527T140000
 DTEND;TZID=Europe/Brussels:20260527T170000
-UID:499314-20260527-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Labo
+UID:1380014-20260527-1400@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1685,17 +1660,17 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260528T110000
 DTEND;TZID=Europe/Brussels:20260528T120000
 UID:1326337-20260528-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
+ orie
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260528T130000
 DTEND;TZID=Europe/Brussels:20260528T150000
-UID:1326340-20260528-1300@webuntis-sync
+UID:1380101-20260528-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o\, Theorie
+ o
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1721,8 +1696,7 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260529T140000
 DTEND;TZID=Europe/Brussels:20260529T170000
 UID:507158-20260529-1400@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Theorie\, Lab
- o
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 END:VCALENDAR
