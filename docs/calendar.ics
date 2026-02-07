@@ -4,33 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:IoT experiments
-DTSTART;TZID=Europe/Brussels:20251208T090000
-DTEND;TZID=Europe/Brussels:20251208T110000
-UID:1208377-20251208-900@webuntis-sync
-DESCRIPTION:Luyts\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Linux
-DTSTART;TZID=Europe/Brussels:20251208T110000
-DTEND;TZID=Europe/Brussels:20251208T130000
-UID:1197505-20251208-1100@webuntis-sync
-DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
- o
-LOCATION:03.11.ELL (48) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open labo IT
-DTSTART;TZID=Europe/Brussels:20251208T160000
-DTEND;TZID=Europe/Brussels:20251208T180000
-UID:1142415-20251208-1600@webuntis-sync
-DESCRIPTION:Van Merode\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
- T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
- b
-LOCATION:01.04.ELL (30) Embedded Elektronica
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Web technology
 DTSTART;TZID=Europe/Brussels:20251209T090000
 DTEND;TZID=Europe/Brussels:20251209T110000
