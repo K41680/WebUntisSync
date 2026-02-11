@@ -107,7 +107,7 @@ DTEND;TZID=Europe/Brussels:20251218T160000
 UID:1283023-20251218-1400@webuntis-sync
 DESCRIPTION:De Pooter\n1IT3a / 1IT3b / 1IT5a / 1IT5b\n--------------------
  \nℹ️ Labo
-LOCATION:03.02.ELL (52) Leslokaal
+LOCATION:03.02.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -116,7 +116,7 @@ DTEND;TZID=Europe/Brussels:20251219T110000
 UID:1213290-20251219-900@webuntis-sync
 DESCRIPTION:Peeters\n1IT2a / 1IT2b / 1IT3a / 1IT3b\n--------------------\n
  ℹ️ Labo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -482,7 +482,7 @@ DTSTART;TZID=Europe/Brussels:20260224T090000
 DTEND;TZID=Europe/Brussels:20260224T110000
 UID:1383721-20260224-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -675,7 +675,7 @@ DTSTART;TZID=Europe/Brussels:20260310T090000
 DTEND;TZID=Europe/Brussels:20260310T110000
 UID:1383733-20260310-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -781,7 +781,7 @@ DTSTART;TZID=Europe/Brussels:20260317T090000
 DTEND;TZID=Europe/Brussels:20260317T110000
 UID:1383739-20260317-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:-01.019.NOO (49) leslokaal
+LOCATION:-01.019.NOO (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -979,7 +979,7 @@ DTSTART;TZID=Europe/Brussels:20260331T090000
 DTEND;TZID=Europe/Brussels:20260331T110000
 UID:1365780-20260331-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.11.ELL (50) Leslokaal
+LOCATION:03.11.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronics
@@ -1001,10 +1001,10 @@ BEGIN:VEVENT
 SUMMARY:Web programming
 DTSTART;TZID=Europe/Brussels:20260402T090000
 DTEND;TZID=Europe/Brussels:20260402T110000
-UID:1328927-20260402-900@webuntis-sync
-DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
- T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
- ℹ️ Theorie
+UID:1386906-20260402-900@webuntis-sync
+DESCRIPTION:Verhulst\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 
+ 1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------
+ \nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
   01.08_3.ELL (144) Auditorium 3
 END:VEVENT
@@ -1109,7 +1109,7 @@ DTSTART;TZID=Europe/Brussels:20260422T110000
 DTEND;TZID=Europe/Brussels:20260422T130000
 UID:1324974-20260422-1100@webuntis-sync
 DESCRIPTION:De Vries\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
@@ -1284,7 +1284,7 @@ DTSTART;TZID=Europe/Brussels:20260506T110000
 DTEND;TZID=Europe/Brussels:20260506T130000
 UID:1324986-20260506-1100@webuntis-sync
 DESCRIPTION:De Vries\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.11.ELL (50) Leslokaal
+LOCATION:03.11.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
@@ -1379,7 +1379,7 @@ DTSTART;TZID=Europe/Brussels:20260513T110000
 DTEND;TZID=Europe/Brussels:20260513T130000
 UID:1324992-20260513-1100@webuntis-sync
 DESCRIPTION:De Vries\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.11.ELL (50) Leslokaal
+LOCATION:03.11.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
@@ -1422,7 +1422,7 @@ DTSTART;TZID=Europe/Brussels:20260520T110000
 DTEND;TZID=Europe/Brussels:20260520T130000
 UID:1324998-20260520-1100@webuntis-sync
 DESCRIPTION:De Vries\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
