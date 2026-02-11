@@ -4,22 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Data networks
-DTSTART;TZID=Europe/Brussels:20251212T110000
-DTEND;TZID=Europe/Brussels:20251212T130000
-UID:503087-20251212-1100@webuntis-sync
-DESCRIPTION:Horsmans\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:01.03.ELL (30) Labo Netwerken
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Databases
-DTSTART;TZID=Europe/Brussels:20251212T140000
-DTEND;TZID=Europe/Brussels:20251212T160000
-UID:504599-20251212-1400@webuntis-sync
-DESCRIPTION:De Pooter\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:01.16/01.17.ELL (76) Projectlokaal DVG & GDM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Linux
 DTSTART;TZID=Europe/Brussels:20251215T110000
 DTEND;TZID=Europe/Brussels:20251215T130000
