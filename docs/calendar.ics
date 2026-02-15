@@ -4,45 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Web technology
-DTSTART;TZID=Europe/Brussels:20251216T090000
-DTEND;TZID=Europe/Brussels:20251216T110000
-UID:523393-20251216-900@webuntis-sync
-DESCRIPTION:Michiels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
- a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
- n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Web technology
-DTSTART;TZID=Europe/Brussels:20251216T110000
-DTEND;TZID=Europe/Brussels:20251216T130000
-UID:1269353-20251216-1100@webuntis-sync
-DESCRIPTION:De Vos / Verhulst\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT
- 3b / 1IT5a / 1IT5b\n--------------------\nℹ️ Labo
-LOCATION:01.34.VIA (220) aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IoT experiments
-DTSTART;TZID=Europe/Brussels:20251216T140000
-DTEND;TZID=Europe/Brussels:20251216T160000
-UID:509972-20251216-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digital fundamentals
-DTSTART;TZID=Europe/Brussels:20251216T160000
-DTEND;TZID=Europe/Brussels:20251216T170000
-UID:505559-20251216-1600@webuntis-sync
-DESCRIPTION:Van Merode\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
- T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
- b\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Data networks
 DTSTART;TZID=Europe/Brussels:20251217T090000
 DTEND;TZID=Europe/Brussels:20251217T110000
