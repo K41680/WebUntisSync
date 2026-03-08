@@ -4,17 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Web technology
-DTSTART;TZID=Europe/Brussels:20260106T090000
-DTEND;TZID=Europe/Brussels:20260106T110000
-UID:1246858-20260106-900@webuntis-sync
-DESCRIPTION:Bollaert / Michiels / Possemiers / Van Eyken\n1IT1a / 1IT1b / 
- 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n-----------
- ---------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Databases
 DTSTART;TZID=Europe/Brussels:20260108T090000
 DTEND;TZID=Europe/Brussels:20260108T120000
