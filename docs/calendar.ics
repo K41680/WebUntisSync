@@ -4,17 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Databases
-DTSTART;TZID=Europe/Brussels:20260108T090000
-DTEND;TZID=Europe/Brussels:20260108T120000
-UID:1245963-20260108-900@webuntis-sync
-DESCRIPTION:De Vries / Peeters / Roelants / Verhulst\n1IT1a / 1IT1b / 1IT2
- a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n---------------
- -----\nℹ️ Digitaal
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Discover IT
 DTSTART;TZID=Europe/Brussels:20260109T090000
 DTEND;TZID=Europe/Brussels:20260109T110000
