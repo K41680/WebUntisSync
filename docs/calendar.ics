@@ -4,16 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Discover IT
-DTSTART;TZID=Europe/Brussels:20260109T090000
-DTEND;TZID=Europe/Brussels:20260109T110000
-UID:1246143-20260109-900@webuntis-sync
-DESCRIPTION:Van Battel / Van Eyken / Van Thielen\n1IT1a / 1IT1b / 1IT2a / 
- 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b\n--------------------\nℹ️ Digita
- al
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Business processes
 DTSTART;TZID=Europe/Brussels:20260112T090000
 DTEND;TZID=Europe/Brussels:20260112T110000
