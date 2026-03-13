@@ -626,8 +626,9 @@ BEGIN:VEVENT
 SUMMARY:Analysis
 DTSTART;TZID=Europe/Brussels:20260318T110000
 DTEND;TZID=Europe/Brussels:20260318T130000
-UID:1324956-20260318-1100@webuntis-sync
-DESCRIPTION:De Vries\n1IT_IOT1\n--------------------\nℹ️ Labo
+UID:1423994-20260318-1100@webuntis-sync
+DESCRIPTION:De Vries\n1IT_AI1 / 1IT_IOT1\n--------------------\nℹ️ Lab
+ o
 LOCATION:03.10.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
