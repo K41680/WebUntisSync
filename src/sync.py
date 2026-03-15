@@ -355,7 +355,7 @@ def sync_calendar():
         cal.add_component(event)
     
     os.makedirs('docs', exist_ok=True)
-    with open('docs/calendar.ics', 'wb') as f:
+    with open('docs/calendar01.ics', 'wb') as f:
         f.write(cal.to_ical())
     
     print(f"✅ Calendar synced: {len(processed_lessons)} events.")
