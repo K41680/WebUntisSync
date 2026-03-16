@@ -4,28 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Programming principles
-DTSTART;TZID=Europe/Brussels:20260114T090000
-DTEND;TZID=Europe/Brussels:20260114T100000
-UID:1246515-20260114-900@webuntis-sync
-DESCRIPTION:Dams / De Pooter / Van Camp / Verhulst\n1IT1a / 1IT1b / 1IT2a 
- / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b\n-
- -------------------\nℹ️ Digitaal kennis
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programming principles
-DTSTART;TZID=Europe/Brussels:20260114T110000
-DTEND;TZID=Europe/Brussels:20260114T130000
-UID:1246524-20260114-1100@webuntis-sync
-DESCRIPTION:Dams / De Pooter / Van Camp / Verhulst\n1IT1a / 1IT1b / 1IT2a 
- / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b\n-
- -------------------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Linux
 DTSTART;TZID=Europe/Brussels:20260116T090000
 DTEND;TZID=Europe/Brussels:20260116T100000
