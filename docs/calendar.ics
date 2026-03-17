@@ -740,20 +740,20 @@ LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
   01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Web programming
-DTSTART;TZID=Europe/Brussels:20260327T110000
-DTEND;TZID=Europe/Brussels:20260327T130000
-UID:523057-20260327-1100@webuntis-sync
-DESCRIPTION:Verhulst\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.05.ELL (49) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260327T140000
 DTEND;TZID=Europe/Brussels:20260327T170000
 UID:507071-20260327-1400@webuntis-sync
 DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web programming
+DTSTART;TZID=Europe/Brussels:20260331T110000
+DTEND;TZID=Europe/Brussels:20260331T130000
+UID:1427129-20260331-1100@webuntis-sync
+DESCRIPTION:Verhulst\n1IT_IOT1\n--------------------\nℹ️ Labo
+LOCATION:03.08.ELL (40) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronics
