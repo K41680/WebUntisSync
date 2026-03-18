@@ -4,28 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Linux
-DTSTART;TZID=Europe/Brussels:20260116T090000
-DTEND;TZID=Europe/Brussels:20260116T100000
-UID:1246368-20260116-900@webuntis-sync
-DESCRIPTION:De Magtige / Manderyck / Mariën / Van Battel\n1IT1a / 1IT1b /
-  1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n----------
- ----------\nℹ️ Digitaal kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (124) Aula\, 01.08_3.ELL (14
- 4) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Linux
-DTSTART;TZID=Europe/Brussels:20260116T110000
-DTEND;TZID=Europe/Brussels:20260116T130000
-UID:1246377-20260116-1100@webuntis-sync
-DESCRIPTION:De Magtige / Manderyck / Mariën / Van Battel\n1IT1a / 1IT1b /
-  1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n----------
- ----------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (124) Aula\, 01.08_3.ELL (14
- 4) Aula
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Data networks
 DTSTART;TZID=Europe/Brussels:20260120T090000
 DTEND;TZID=Europe/Brussels:20260120T100000
