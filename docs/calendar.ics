@@ -4,28 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Data networks
-DTSTART;TZID=Europe/Brussels:20260120T090000
-DTEND;TZID=Europe/Brussels:20260120T100000
-UID:1242524-20260120-900@webuntis-sync
-DESCRIPTION:De Vos / Horsmans / Van Merode / Verhulst\n1IT1a / 1IT1b / 1IT
- 2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b
- \n--------------------\nℹ️ Digitaal kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Data networks
-DTSTART;TZID=Europe/Brussels:20260120T110000
-DTEND;TZID=Europe/Brussels:20260120T130000
-UID:1242518-20260120-1100@webuntis-sync
-DESCRIPTION:De Vos / Horsmans / Van Merode / Verhulst\n1IT1a / 1IT1b / 1IT
- 2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b
- \n--------------------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Digital fundamentals
 DTSTART;TZID=Europe/Brussels:20260122T090000
 DTEND;TZID=Europe/Brussels:20260122T110000
