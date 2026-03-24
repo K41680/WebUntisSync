@@ -4,28 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Digital fundamentals
-DTSTART;TZID=Europe/Brussels:20260122T090000
-DTEND;TZID=Europe/Brussels:20260122T110000
-UID:1246092-20260122-900@webuntis-sync
-DESCRIPTION:Horsmans / Michiels / Van Battel / Van Merode\n1IT1a / 1IT1b /
-  1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1
- IT6b\n--------------------\nℹ️ Digitaal kennis
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digital fundamentals
-DTSTART;TZID=Europe/Brussels:20260122T120000
-DTEND;TZID=Europe/Brussels:20260122T140000
-UID:1246062-20260122-1200@webuntis-sync
-DESCRIPTION:Horsmans / Michiels / Van Battel / Van Merode\n1IT1a / 1IT1b /
-  1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1
- IT6b\n--------------------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inzagerecht_dag
 DTSTART;TZID=Europe/Brussels:20260129T130000
 DTEND;TZID=Europe/Brussels:20260129T170000
