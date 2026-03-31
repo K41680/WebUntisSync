@@ -4,19 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Inzagerecht_dag
-DTSTART;TZID=Europe/Brussels:20260129T130000
-DTEND;TZID=Europe/Brussels:20260129T170000
-UID:1289350-20260129-1300@webuntis-sync
-DESCRIPTION:MDI\n1IOT_DAG1a / 1IOT_DAG1b / 1IOT_DAG2a / 1IOT_DAG2b / 1IT1a
-  / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b /
-  1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b / 1PRO_D1a / 1PRO_D1b / 1PR
- O_D2a / 1PRO_D2b / 1PRO_D3a / 1PRO_D3b / 1PRO_D4a / 1PRO_D4b / 1PRO_D5a / 
- 1PRO_D5b / 1SNB_D1a / 1SNB_D1b / 1SNB_D2a / 1SNB_D2b / 1SNB_D3a / 1SNB_D3b
-  / 1SNB_D4a / 1SNB_D4b\n--------------------\nℹ️ Op campus ELL verdiep
- ing 3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Communication
 DTSTART;TZID=Europe/Brussels:20260203T110000
 DTEND;TZID=Europe/Brussels:20260203T130000
