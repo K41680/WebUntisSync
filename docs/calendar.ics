@@ -1299,11 +1299,9 @@ SUMMARY:Analysis
 DTSTART;TZID=Europe/Brussels:20260603T090000
 DTEND;TZID=Europe/Brussels:20260603T110000
 UID:1454523-20260603-900@webuntis-sync
-DESCRIPTION:De Vries / Van Eyken\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 /
-  1IT_CSC2 / 1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------
- ------------\nℹ️ Digitaal examen: kennis en vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula\, 02.05.ELL (129) Aula
+DESCRIPTION:De Vries / Waeyaert\n1IT_AI1 / 1IT_IOT1\n--------------------\
+ nℹ️ Digitaal examen: kennis en vaardigheid
+LOCATION:02.05.ELL (129) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -1315,7 +1313,7 @@ DESCRIPTION:De Vos / Similon / Van Battel / Verhulst\n1IT_AI1 / 1IT_BUS ui
  / 1IT_SOF2\n--------------------\nℹ️ Digitaal examen: kennis en vaardi
  gheid
 LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula\, 02.05.ELL (129) Aula\, 03.05.ELL (49) Leslokaal
+ 4) Aula\, 02.05.ELL (129) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
