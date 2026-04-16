@@ -1308,29 +1308,28 @@ SUMMARY:Web programming
 DTSTART;TZID=Europe/Brussels:20260605T090000
 DTEND;TZID=Europe/Brussels:20260605T120000
 UID:1455201-20260605-900@webuntis-sync
-DESCRIPTION:De Vos / Similon / Van Battel / Verhulst\n1IT_AI1 / 1IT_BUS ui
- tdovend / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 
- / 1IT_SOF2\n--------------------\nℹ️ Digitaal examen: kennis en vaardi
- gheid
+DESCRIPTION:De Vos / Horsmans / Similon / Van Battel\n1IT_AI1 / 1IT_CSC1 /
+  1IT_CSC2 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n-------------------
+ -\nℹ️ Digitaal examen: kennis en vaardigheid
 LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula\, 02.05.ELL (129) Aula
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
 DTSTART;TZID=Europe/Brussels:20260608T090000
 DTEND;TZID=Europe/Brussels:20260608T120000
 UID:1454970-20260608-900@webuntis-sync
-DESCRIPTION:Doggen / Michiels\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 
- 1IT_IOT1\n--------------------\nℹ️ Digitaal vaardigheid
-LOCATION:01.30.VIA (180) Aula\, 01.37.VIA (180) Aula
+DESCRIPTION:Doggen / Nys\n1IT_AI1 / 1IT_CSC1 / 1IT_IOT1\n-----------------
+ ---\nℹ️ Digitaal vaardigheid
+LOCATION:01.37.VIA (180) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260610T090000
 DTEND;TZID=Europe/Brussels:20260610T100000
 UID:1454529-20260610-900@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Digitaal examen 
- kennis
+DESCRIPTION:De Magtige / Luyts\n1IT_IOT1\n--------------------\nℹ️ Dig
+ itaal examen kennis
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1338,8 +1337,8 @@ SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260610T110000
 DTEND;TZID=Europe/Brussels:20260610T130000
 UID:1454532-20260610-1100@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Digitaal examen 
- vaardigheid
+DESCRIPTION:De Magtige / Luyts\n1IT_IOT1\n--------------------\nℹ️ Dig
+ itaal examen vaardigheid
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1347,8 +1346,8 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260612T090000
 DTEND;TZID=Europe/Brussels:20260612T100000
 UID:1454718-20260612-900@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Dig
- itaal examen kennis
+DESCRIPTION:Luyckx / Mariën\n1ITVTIOT1 / 1IT_IOT1\n--------------------\n
+ ℹ️ Digitaal examen kennis
 LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -1356,8 +1355,8 @@ SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260612T110000
 DTEND;TZID=Europe/Brussels:20260612T130000
 UID:1454721-20260612-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Dig
- itaal examen vaardigheid
+DESCRIPTION:Luyckx / Mariën\n1ITVTIOT1 / 1IT_IOT1\n--------------------\n
+ ℹ️ Digitaal examen vaardigheid
 LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -1365,8 +1364,8 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260615T090000
 DTEND;TZID=Europe/Brussels:20260615T110000
 UID:1454787-20260615-900@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Digitaal exam
- en kennis
+DESCRIPTION:Van Eyken / Vanhulle\n1IT_IOT1\n--------------------\nℹ️ D
+ igitaal examen kennis
 LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
@@ -1374,8 +1373,8 @@ SUMMARY:Electronics
 DTSTART;TZID=Europe/Brussels:20260615T120000
 DTEND;TZID=Europe/Brussels:20260615T140000
 UID:1454793-20260615-1200@webuntis-sync
-DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Digitaal exam
- en vaardigheid
+DESCRIPTION:Van Eyken / Vanhulle\n1IT_IOT1\n--------------------\nℹ️ D
+ igitaal examen vaardigheid
 LOCATION:01.04.ELL (30) Embedded Elektronica
 END:VEVENT
 END:VCALENDAR
