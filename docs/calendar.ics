@@ -1049,7 +1049,7 @@ DTSTART;TZID=Europe/Brussels:20260512T090000
 DTEND;TZID=Europe/Brussels:20260512T110000
 UID:1365804-20260512-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.06_A.VIA (40) Projectlokaal
+LOCATION:03.04.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -1274,8 +1274,8 @@ SUMMARY:Communication
 DTSTART;TZID=Europe/Brussels:20260601T090000
 DTEND;TZID=Europe/Brussels:20260601T110000
 UID:1480281-20260601-900@webuntis-sync
-DESCRIPTION:Binnemans\n1IT_IOT1\n--------------------\nℹ️ Digitaal exa
- men: vaardigheid
+DESCRIPTION:Binnemans\n1IT_IMT1 / 1IT_IOT1\n--------------------\nℹ️ D
+ igitaal examen: vaardigheid
 LOCATION:02.05.ELL (129) Aula
 END:VEVENT
 BEGIN:VEVENT
