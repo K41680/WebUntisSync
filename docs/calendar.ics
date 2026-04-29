@@ -903,9 +903,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260429T140000
-DTEND;TZID=Europe/Brussels:20260429T150000
+DTEND;TZID=Europe/Brussels:20260429T170000
 UID:1380002-20260429-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -991,9 +991,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260506T140000
-DTEND;TZID=Europe/Brussels:20260506T150000
+DTEND;TZID=Europe/Brussels:20260506T170000
 UID:1380005-20260506-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1097,9 +1097,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260513T140000
-DTEND;TZID=Europe/Brussels:20260513T150000
+DTEND;TZID=Europe/Brussels:20260513T170000
 UID:1380008-20260513-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
@@ -1140,9 +1140,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
 DTSTART;TZID=Europe/Brussels:20260520T140000
-DTEND;TZID=Europe/Brussels:20260520T150000
+DTEND;TZID=Europe/Brussels:20260520T170000
 UID:1380011-20260520-1400@webuntis-sync
-DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
