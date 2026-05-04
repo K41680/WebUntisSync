@@ -1362,4 +1362,16 @@ DESCRIPTION:Van Eyken / Vanhulle\n1IT_IOT1\n--------------------\nℹ️ D
  igitaal examen vaardigheid
 LOCATION:01.04.ELL (30) Embedded Elektronica
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inzagerecht_dag
+DTSTART;TZID=Europe/Brussels:20260624T130000
+DTEND;TZID=Europe/Brussels:20260624T160000
+UID:1492131-20260624-1300@webuntis-sync
+DESCRIPTION:MDI\n1IOT_D1 / 1IOT_D2 / 1IOT_Z / 1IT_AI1 / 1IT_BUS uitdovend 
+ / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SO
+ F2 / 1PRO_D1a / 1PRO_D1b / 1PRO_D2a / 1PRO_D2b / 1PRO_D3a / 1PRO_D3b / 1PR
+ O_D4a / 1PRO_D4b / 1PRO_Z1 / 1PRO_Z2 / 1SNB_D1a / 1SNB_D1b / 1SNB_D2a / 1S
+ NB_D2b / 1SNB_D3a / 1SNB_D3b / 1SNB_D4a / 1SNB_D4b / 1SNB_Z1 / 1SNB_Z2\n--
+ ------------------\nℹ️ Op campus ELL verdieping 3
+END:VEVENT
 END:VCALENDAR
