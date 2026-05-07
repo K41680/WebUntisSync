@@ -1146,24 +1146,6 @@ DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:C/C++ programming
-DTSTART;TZID=Europe/Brussels:20260521T110000
-DTEND;TZID=Europe/Brussels:20260521T120000
-UID:1326331-20260521-1100@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ The
- orie
-LOCATION:03.12.ELL (48) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C/C++ programming
-DTSTART;TZID=Europe/Brussels:20260521T130000
-DTEND;TZID=Europe/Brussels:20260521T150000
-UID:1380095-20260521-1300@webuntis-sync
-DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
- o
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Python OOP
 DTSTART;TZID=Europe/Brussels:20260522T090000
 DTEND;TZID=Europe/Brussels:20260522T110000
@@ -1241,7 +1223,7 @@ DTEND;TZID=Europe/Brussels:20260528T150000
 UID:1380101-20260528-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
  o
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
+LOCATION:03.04.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
