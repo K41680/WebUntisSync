@@ -1103,6 +1103,14 @@ DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arduino interfacing
+DTSTART;TZID=Europe/Brussels:20260518T090000
+DTEND;TZID=Europe/Brussels:20260518T120000
+UID:1497044-20260518-900@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Theorie | Labo
+LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Python OOP
 DTSTART;TZID=Europe/Brussels:20260519T110000
 DTEND;TZID=Europe/Brussels:20260519T130000
