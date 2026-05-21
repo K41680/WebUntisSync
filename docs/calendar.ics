@@ -1208,6 +1208,16 @@ DESCRIPTION:Michiels\n1IT_AI1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1\n----------
 LOCATION:01.37.VIA (180) Aula
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Web programming
+DTSTART;TZID=Europe/Brussels:20260527T110000
+DTEND;TZID=Europe/Brussels:20260527T130000
+UID:1508727-20260527-1100@webuntis-sync
+DESCRIPTION:De Vos / Van Battel / Verhulst\n1IT_BUS uitdovend / 1IT_CSC2 /
+  1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n-------------------
+ -\nℹ️ Labo
+LOCATION:03.06.ELL (59) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:C/C++ programming
 DTSTART;TZID=Europe/Brussels:20260528T110000
 DTEND;TZID=Europe/Brussels:20260528T120000
@@ -1234,14 +1244,6 @@ DESCRIPTION:Michiels\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1\
  n--------------------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
   01.08_3.ELL (144) Auditorium 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Web programming
-DTSTART;TZID=Europe/Brussels:20260529T110000
-DTEND;TZID=Europe/Brussels:20260529T130000
-UID:523087-20260529-1100@webuntis-sync
-DESCRIPTION:Verhulst\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.05.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -1347,5 +1349,125 @@ DESCRIPTION:MDI\n1IOT_D1 / 1IOT_D2 / 1IOT_Z / 1IT_AI1 / 1IT_BUS uitdovend
  O_D4a / 1PRO_D4b / 1PRO_Z1 / 1PRO_Z2 / 1SNB_D1a / 1SNB_D1b / 1SNB_D2a / 1S
  NB_D2b / 1SNB_D3a / 1SNB_D3b / 1SNB_D4a / 1SNB_D4b / 1SNB_Z1 / 1SNB_Z2\n--
  ------------------\nℹ️ Op campus ELL verdieping 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Communication
+DTSTART;TZID=Europe/Brussels:20260824T090000
+DTEND;TZID=Europe/Brussels:20260824T180000
+UID:1505939-20260824-900@webuntis-sync
+DESCRIPTION:Binnemans / Van Eyken\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC
+ 3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\nℹ
+ ️ Mondeling examen vaardigheid
+LOCATION:03.04.ELL (48) Leslokaal\, 03.06.ELL (59) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Communication
+DTSTART;TZID=Europe/Brussels:20260825T090000
+DTEND;TZID=Europe/Brussels:20260825T180000
+UID:1505966-20260825-900@webuntis-sync
+DESCRIPTION:Binnemans / Van Eyken\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC
+ 3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\nℹ
+ ️ Mondeling examen vaardigheid
+LOCATION:03.04.ELL (48) Leslokaal\, 03.06.ELL (59) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analysis
+DTSTART;TZID=Europe/Brussels:20260827T090000
+DTEND;TZID=Europe/Brussels:20260827T110000
+UID:1505822-20260827-900@webuntis-sync
+DESCRIPTION:De Vries / Van Eyken\n1ITVTIOT1 / 1IT_AI1 / 1IT_CSC1 / 1IT_CSC
+ 2 / 1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2 / 1IT_VT_CSC1 / 1
+ IT_VT_SOF1\n--------------------\nℹ️ Digitaal examen kennis en vaardig
+ heid
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Communication
+DTSTART;TZID=Europe/Brussels:20260828T120000
+DTEND;TZID=Europe/Brussels:20260828T140000
+UID:1505927-20260828-1200@webuntis-sync
+DESCRIPTION:Binnemans / Van Eyken\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC
+ 3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\nℹ
+ ️ Digitaal examen vaardigheid
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arduino interfacing
+DTSTART;TZID=Europe/Brussels:20260907T090000
+DTEND;TZID=Europe/Brussels:20260907T100000
+UID:1505834-20260907-900@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Digitaal examen 
+ kennis
+LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arduino interfacing
+DTSTART;TZID=Europe/Brussels:20260907T110000
+DTEND;TZID=Europe/Brussels:20260907T130000
+UID:1505837-20260907-1100@webuntis-sync
+DESCRIPTION:Luyts\n1IT_IOT1\n--------------------\nℹ️ Digitaal examen 
+ vaardigheid
+LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:C/C++ programming
+DTSTART;TZID=Europe/Brussels:20260908T120000
+DTEND;TZID=Europe/Brussels:20260908T130000
+UID:1505903-20260908-1200@webuntis-sync
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Dig
+ itaal examen kennis
+LOCATION:03.07.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:C/C++ programming
+DTSTART;TZID=Europe/Brussels:20260908T140000
+DTEND;TZID=Europe/Brussels:20260908T160000
+UID:1505906-20260908-1400@webuntis-sync
+DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Dig
+ itaal examen vaardigheid
+LOCATION:03.07.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electronics
+DTSTART;TZID=Europe/Brussels:20260909T080000
+DTEND;TZID=Europe/Brussels:20260909T100000
+UID:1506209-20260909-800@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Digitaal exam
+ en kennis
+LOCATION:03.02.ELL (48) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electronics
+DTSTART;TZID=Europe/Brussels:20260909T110000
+DTEND;TZID=Europe/Brussels:20260909T130000
+UID:1506215-20260909-1100@webuntis-sync
+DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Digitaal exam
+ en vaardigheid
+LOCATION:01.04.ELL (30) Embedded Elektronica
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web programming
+DTSTART;TZID=Europe/Brussels:20260909T140000
+DTEND;TZID=Europe/Brussels:20260909T170000
+UID:1506750-20260909-1400@webuntis-sync
+DESCRIPTION:De Vos / Similon / Van Battel / Verhulst\n1IT_AI1 / 1IT_BUS ui
+ tdovend / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 
+ / 1IT_SOF2\n--------------------\nℹ️ Digitaal examen kennis en vaardig
+ heid
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python OOP
+DTSTART;TZID=Europe/Brussels:20260910T090000
+DTEND;TZID=Europe/Brussels:20260910T120000
+UID:1506575-20260910-900@webuntis-sync
+DESCRIPTION:Doggen / Michiels / Nys / Schraepen\n1ITVTIOT1 / 1IT_AI1 / 1IT
+ _CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1 / 1IT_VT_CSC1\n--------------------
+ \nℹ️ Digitaal examen vaardigheid
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 END:VCALENDAR
