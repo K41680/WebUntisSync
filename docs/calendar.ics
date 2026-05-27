@@ -1347,7 +1347,7 @@ DESCRIPTION:MDI\n1IOT_D1 / 1IOT_D2 / 1IOT_Z / 1IT_AI1 / 1IT_BUS uitdovend
  F2 / 1PRO_D1a / 1PRO_D1b / 1PRO_D2a / 1PRO_D2b / 1PRO_D3a / 1PRO_D3b / 1PR
  O_D4a / 1PRO_D4b / 1PRO_Z1 / 1PRO_Z2 / 1SNB_D1a / 1SNB_D1b / 1SNB_D2a / 1S
  NB_D2b / 1SNB_D3a / 1SNB_D3b / 1SNB_D4a / 1SNB_D4b / 1SNB_Z1 / 1SNB_Z2\n--
- ------------------\nℹ️ Op campus ELL verdieping 3
+ ------------------\nℹ️ Op campus ELL verdieping 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
