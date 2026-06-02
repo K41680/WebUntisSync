@@ -106,7 +106,7 @@ DTSTART;TZID=Europe/Brussels:20260210T090000
 DTEND;TZID=Europe/Brussels:20260210T110000
 UID:1381588-20260210-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:02.07_A.VIA (40) Projectlokaal
+LOCATION:02.07_A.VIA (40) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -201,7 +201,7 @@ DTSTART;TZID=Europe/Brussels:20260224T090000
 DTEND;TZID=Europe/Brussels:20260224T110000
 UID:1383721-20260224-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -281,7 +281,7 @@ DTSTART;TZID=Europe/Brussels:20260303T090000
 DTEND;TZID=Europe/Brussels:20260303T110000
 UID:1383727-20260303-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.06_A.VIA (40) Projectlokaal
+LOCATION:03.06_A.VIA (40) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -376,7 +376,7 @@ DTSTART;TZID=Europe/Brussels:20260310T090000
 DTEND;TZID=Europe/Brussels:20260310T110000
 UID:1383733-20260310-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -603,7 +603,7 @@ DTSTART;TZID=Europe/Brussels:20260324T160000
 DTEND;TZID=Europe/Brussels:20260324T180000
 UID:1420958-20260324-1600@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.04.ELL (48) Leslokaal
+LOCATION:03.04.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
@@ -768,7 +768,7 @@ DTSTART;TZID=Europe/Brussels:20260421T090000
 DTEND;TZID=Europe/Brussels:20260421T110000
 UID:1365786-20260421-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -943,7 +943,7 @@ DTSTART;TZID=Europe/Brussels:20260505T090000
 DTEND;TZID=Europe/Brussels:20260505T110000
 UID:1365798-20260505-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -978,7 +978,7 @@ DTSTART;TZID=Europe/Brussels:20260506T090000
 DTEND;TZID=Europe/Brussels:20260506T110000
 UID:1485111-20260506-900@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -1041,7 +1041,7 @@ DTSTART;TZID=Europe/Brussels:20260508T110000
 DTEND;TZID=Europe/Brussels:20260508T130000
 UID:523075-20260508-1100@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronics
@@ -1057,7 +1057,7 @@ DTSTART;TZID=Europe/Brussels:20260512T090000
 DTEND;TZID=Europe/Brussels:20260512T110000
 UID:1365804-20260512-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.04.ELL (48) Leslokaal
+LOCATION:03.04.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -1233,7 +1233,7 @@ DTEND;TZID=Europe/Brussels:20260528T150000
 UID:1380101-20260528-1300@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Lab
  o
-LOCATION:03.04.ELL (48) Leslokaal
+LOCATION:03.04.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -1308,7 +1308,7 @@ DTEND;TZID=Europe/Brussels:20260612T100000
 UID:1454718-20260612-900@webuntis-sync
 DESCRIPTION:Luyckx / Mariën\n1ITVTIOT1 / 1IT_IOT1\n--------------------\n
  ℹ️ Digitaal examen kennis
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
@@ -1317,7 +1317,7 @@ DTEND;TZID=Europe/Brussels:20260612T130000
 UID:1454721-20260612-1100@webuntis-sync
 DESCRIPTION:Luyckx / Mariën\n1ITVTIOT1 / 1IT_IOT1\n--------------------\n
  ℹ️ Digitaal examen vaardigheid
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronics
@@ -1326,7 +1326,7 @@ DTEND;TZID=Europe/Brussels:20260615T110000
 UID:1454787-20260615-900@webuntis-sync
 DESCRIPTION:Van Eyken / Vanhulle\n1IT_IOT1\n--------------------\nℹ️ D
  igitaal examen kennis
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronics
@@ -1357,7 +1357,7 @@ UID:1505939-20260824-900@webuntis-sync
 DESCRIPTION:Binnemans / Van Eyken\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC
  3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\nℹ
  ️ Mondeling examen vaardigheid
-LOCATION:03.04.ELL (48) Leslokaal\, 03.06.ELL (60) Leslokaal
+LOCATION:03.04.ELL (50) Leslokaal\, 03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -1367,7 +1367,7 @@ UID:1505966-20260825-900@webuntis-sync
 DESCRIPTION:Binnemans / Van Eyken\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC
  3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\nℹ
  ️ Mondeling examen vaardigheid
-LOCATION:03.04.ELL (48) Leslokaal\, 03.06.ELL (60) Leslokaal
+LOCATION:03.04.ELL (50) Leslokaal\, 03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -1417,7 +1417,7 @@ DTEND;TZID=Europe/Brussels:20260908T130000
 UID:1505903-20260908-1200@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Dig
  itaal examen kennis
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
@@ -1426,7 +1426,7 @@ DTEND;TZID=Europe/Brussels:20260908T160000
 UID:1505906-20260908-1400@webuntis-sync
 DESCRIPTION:Luyckx\n1ITVTIOT1 / 1IT_IOT1\n--------------------\nℹ️ Dig
  itaal examen vaardigheid
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronics
@@ -1435,7 +1435,7 @@ DTEND;TZID=Europe/Brussels:20260909T100000
 UID:1506209-20260909-800@webuntis-sync
 DESCRIPTION:Vanhulle\n1IT_IOT1\n--------------------\nℹ️ Digitaal exam
  en kennis
-LOCATION:03.02.ELL (48) Leslokaal
+LOCATION:03.02.ELL (52) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronics
