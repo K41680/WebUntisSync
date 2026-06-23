@@ -690,7 +690,7 @@ DTSTART;TZID=Europe/Brussels:20260401T140000
 DTEND;TZID=Europe/Brussels:20260401T160000
 UID:1420964-20260401-1400@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.11.ELL (48) Leslokaal
+LOCATION:03.11.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -803,7 +803,7 @@ DTSTART;TZID=Europe/Brussels:20260422T110000
 DTEND;TZID=Europe/Brussels:20260422T130000
 UID:1324974-20260422-1100@webuntis-sync
 DESCRIPTION:De Vries\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (59) Leslokaal
+LOCATION:03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
@@ -986,7 +986,7 @@ DTSTART;TZID=Europe/Brussels:20260506T110000
 DTEND;TZID=Europe/Brussels:20260506T130000
 UID:1324986-20260506-1100@webuntis-sync
 DESCRIPTION:De Vries\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.11.ELL (48) Leslokaal
+LOCATION:03.11.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
@@ -1092,7 +1092,7 @@ DTSTART;TZID=Europe/Brussels:20260513T110000
 DTEND;TZID=Europe/Brussels:20260513T130000
 UID:1324992-20260513-1100@webuntis-sync
 DESCRIPTION:De Vries\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.11.ELL (48) Leslokaal
+LOCATION:03.11.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
@@ -1143,7 +1143,7 @@ DTSTART;TZID=Europe/Brussels:20260520T110000
 DTEND;TZID=Europe/Brussels:20260520T130000
 UID:1324998-20260520-1100@webuntis-sync
 DESCRIPTION:De Vries\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (59) Leslokaal
+LOCATION:03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
@@ -1357,7 +1357,7 @@ UID:1505939-20260824-900@webuntis-sync
 DESCRIPTION:Binnemans / Van Eyken\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC
  3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\nℹ
  ️ Mondeling examen vaardigheid
-LOCATION:03.04.ELL (48) Leslokaal\, 03.06.ELL (59) Leslokaal
+LOCATION:03.04.ELL (48) Leslokaal\, 03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -1367,7 +1367,7 @@ UID:1505966-20260825-900@webuntis-sync
 DESCRIPTION:Binnemans / Van Eyken\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC
  3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\nℹ
  ️ Mondeling examen vaardigheid
-LOCATION:03.04.ELL (48) Leslokaal\, 03.06.ELL (59) Leslokaal
+LOCATION:03.04.ELL (48) Leslokaal\, 03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
