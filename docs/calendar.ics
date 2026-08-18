@@ -106,7 +106,7 @@ DTSTART;TZID=Europe/Brussels:20260210T090000
 DTEND;TZID=Europe/Brussels:20260210T110000
 UID:1381588-20260210-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:02.07_A.VIA (38) Theorielokaal
+LOCATION:02.07_A.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -281,7 +281,7 @@ DTSTART;TZID=Europe/Brussels:20260303T090000
 DTEND;TZID=Europe/Brussels:20260303T110000
 UID:1383727-20260303-900@webuntis-sync
 DESCRIPTION:Doggen\n1IT_IOT1\n--------------------\nℹ️ Labo
-LOCATION:03.06_A.VIA (38) Theorielokaal
+LOCATION:03.06_A.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
