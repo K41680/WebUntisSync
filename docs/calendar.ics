@@ -535,7 +535,7 @@ UID:1120718-20260319-900@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 
  1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2 / 1IT_SOF3\n---------
  -----------\nℹ️ Theorie
-LOCATION:01.37.VIA (180) aula
+LOCATION:01.37.VIA (180) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
@@ -700,7 +700,7 @@ UID:1386906-20260402-900@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 
  1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------
  \nℹ️ Theorie
-LOCATION:00.025.NOO (297)
+LOCATION:00.025.NOO (297) aula Andries Kinsbergen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C/C++ programming
@@ -1205,7 +1205,7 @@ DTEND;TZID=Europe/Brussels:20260527T110000
 UID:1451162-20260527-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_AI1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1\n----------
  ----------\nℹ️ Labo
-LOCATION:01.37.VIA (180) aula
+LOCATION:01.37.VIA (180) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -1281,7 +1281,7 @@ DTEND;TZID=Europe/Brussels:20260608T120000
 UID:1454970-20260608-900@webuntis-sync
 DESCRIPTION:Doggen / Nys\n1IT_AI1 / 1IT_CSC1 / 1IT_IOT1\n-----------------
  ---\nℹ️ Digitaal vaardigheid
-LOCATION:01.37.VIA (180) aula
+LOCATION:01.37.VIA (180) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arduino interfacing
