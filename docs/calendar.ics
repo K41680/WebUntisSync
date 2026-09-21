@@ -642,7 +642,7 @@ DTEND;TZID=Europe/Brussels:20261030T180000
 UID:2821224-20261030-1500@webuntis-sync
 DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
  T: Internet of Things daggroep 1\n--------------------\nℹ️ Labo
-LOCATION:-01.022.NOO (43) Leslokaal
+LOCATION:-01.022.NOO (43) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IOT Project analysis
@@ -1569,7 +1569,7 @@ DTEND;TZID=Europe/Brussels:20261127T180000
 UID:2821251-20261127-1500@webuntis-sync
 DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
  T: Internet of Things daggroep 1\n--------------------\nℹ️ Labo
-LOCATION:03.07.A.VIA (40) Leslokaal
+LOCATION:03.07.A.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IOT Project analysis
@@ -2517,7 +2517,7 @@ DTEND;TZID=Europe/Brussels:20261218T180000
 UID:2821278-20261218-1500@webuntis-sync
 DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
  T: Internet of Things daggroep 1\n--------------------\nℹ️ Labo
-LOCATION:03.07.A.VIA (40) Leslokaal
+LOCATION:03.07.A.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IOT Project analysis
