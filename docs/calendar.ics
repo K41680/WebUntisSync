@@ -28,15 +28,6 @@ DESCRIPTION:Van Eyken\n--------------------\nℹ️ Labo Communicatie
 LOCATION:03.05.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20260924T100000
-DTEND;TZID=Europe/Brussels:20260924T120000
-UID:2815542-20260924-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Studay
 DTSTART;TZID=Europe/Brussels:20260924T130000
 DTEND;TZID=Europe/Brussels:20260924T220000
@@ -67,14 +58,6 @@ DTEND;TZID=Europe/Brussels:20260925T180000
 UID:2821179-20260925-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
 LOCATION:03.06.ELL (60) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IOT Project analysis
-DTSTART;TZID=Europe/Brussels:20260928T090000
-DTEND;TZID=Europe/Brussels:20260928T110000
-UID:2816280-20260928-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Groepsleren
-LOCATION:01.18.ELL (32) Projectlokaal IOT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -109,54 +92,6 @@ DESCRIPTION:Vanhulle\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20260929T140000
-DTEND;TZID=Europe/Brussels:20260929T150000
-UID:2821521-20260929-1400@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Theorie
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20260929T150000
-DTEND;TZID=Europe/Brussels:20260929T160000
-UID:2841208-20260929-1500@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Theorie
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20260929T150000
-DTEND;TZID=Europe/Brussels:20260929T160000
-UID:2821563-20260929-1500@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20260929T160000
-DTEND;TZID=Europe/Brussels:20260929T170000
-UID:2841250-20260929-1600@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20260929T160000
-DTEND;TZID=Europe/Brussels:20260929T170000
-UID:2821566-20260929-1600@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20260929T170000
-DTEND;TZID=Europe/Brussels:20260929T180000
-UID:2841253-20260929-1700@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PCB Design
 DTSTART;TZID=Europe/Brussels:20260930T100000
 DTEND;TZID=Europe/Brussels:20260930T130000
@@ -173,29 +108,12 @@ DESCRIPTION:Michiels\n--------------------\nℹ️ Theorie
 LOCATION:02.01.ELL (87) Aula
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20261001T100000
-DTEND;TZID=Europe/Brussels:20261001T120000
-UID:2815551-20261001-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Project methodology
 DTSTART;TZID=Europe/Brussels:20261001T120000
 DTEND;TZID=Europe/Brussels:20261001T140000
 UID:2819934-20261001-1200@webuntis-sync
 DESCRIPTION:Van Eyken\n--------------------\nℹ️ Labo Communicatie
 LOCATION:03.09.ELL (30) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open labo IT
-DTSTART;TZID=Europe/Brussels:20261002T090000
-DTEND;TZID=Europe/Brussels:20261002T110000
-UID:2818539-20261002-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Open Labo
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronic Systems
@@ -212,14 +130,6 @@ DTEND;TZID=Europe/Brussels:20261002T180000
 UID:2821188-20261002-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
 LOCATION:00.02.ELL (61) Projectlokaal DVG & GDM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IOT Project analysis
-DTSTART;TZID=Europe/Brussels:20261005T090000
-DTEND;TZID=Europe/Brussels:20261005T110000
-UID:2816286-20261005-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Groepsleren
-LOCATION:01.18.ELL (32) Projectlokaal IOT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -254,54 +164,6 @@ DESCRIPTION:Vanhulle\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261006T140000
-DTEND;TZID=Europe/Brussels:20261006T150000
-UID:2821524-20261006-1400@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Theorie
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261006T150000
-DTEND;TZID=Europe/Brussels:20261006T160000
-UID:2841211-20261006-1500@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Theorie
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261006T150000
-DTEND;TZID=Europe/Brussels:20261006T160000
-UID:2821569-20261006-1500@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261006T160000
-DTEND;TZID=Europe/Brussels:20261006T170000
-UID:2841256-20261006-1600@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261006T160000
-DTEND;TZID=Europe/Brussels:20261006T170000
-UID:2821572-20261006-1600@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261006T170000
-DTEND;TZID=Europe/Brussels:20261006T180000
-UID:2841259-20261006-1700@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PCB Design
 DTSTART;TZID=Europe/Brussels:20261007T100000
 DTEND;TZID=Europe/Brussels:20261007T130000
@@ -316,15 +178,6 @@ DTEND;TZID=Europe/Brussels:20261007T160000
 UID:2820894-20261007-1400@webuntis-sync
 DESCRIPTION:Michiels\n--------------------\nℹ️ Theorie
 LOCATION:02.01.ELL (87) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20261008T100000
-DTEND;TZID=Europe/Brussels:20261008T120000
-UID:2815560-20261008-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -359,14 +212,6 @@ DESCRIPTION:Nys\n--------------------\nℹ️ Labo
 LOCATION:03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IOT Project analysis
-DTSTART;TZID=Europe/Brussels:20261012T090000
-DTEND;TZID=Europe/Brussels:20261012T110000
-UID:2816292-20261012-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Groepsleren
-LOCATION:01.18.ELL (32) Projectlokaal IOT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Microcontrollers
 DTSTART;TZID=Europe/Brussels:20261012T110000
 DTEND;TZID=Europe/Brussels:20261012T130000
@@ -399,54 +244,6 @@ DESCRIPTION:Vanhulle\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261013T140000
-DTEND;TZID=Europe/Brussels:20261013T150000
-UID:2821527-20261013-1400@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Theorie
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261013T150000
-DTEND;TZID=Europe/Brussels:20261013T160000
-UID:2841214-20261013-1500@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Theorie
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261013T150000
-DTEND;TZID=Europe/Brussels:20261013T160000
-UID:2821575-20261013-1500@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261013T160000
-DTEND;TZID=Europe/Brussels:20261013T170000
-UID:2841262-20261013-1600@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261013T160000
-DTEND;TZID=Europe/Brussels:20261013T170000
-UID:2821578-20261013-1600@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261013T170000
-DTEND;TZID=Europe/Brussels:20261013T180000
-UID:2841265-20261013-1700@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PCB Design
 DTSTART;TZID=Europe/Brussels:20261014T100000
 DTEND;TZID=Europe/Brussels:20261014T130000
@@ -463,29 +260,12 @@ DESCRIPTION:Michiels\n--------------------\nℹ️ Theorie
 LOCATION:02.01.ELL (87) Aula
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20261015T100000
-DTEND;TZID=Europe/Brussels:20261015T120000
-UID:2815569-20261015-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Project methodology
 DTSTART;TZID=Europe/Brussels:20261015T120000
 DTEND;TZID=Europe/Brussels:20261015T140000
 UID:2819946-20261015-1200@webuntis-sync
 DESCRIPTION:Van Eyken\n--------------------\nℹ️ Labo Communicatie
 LOCATION:03.09.ELL (30) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open labo IT
-DTSTART;TZID=Europe/Brussels:20261016T090000
-DTEND;TZID=Europe/Brussels:20261016T110000
-UID:2818545-20261016-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Open Labo
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronic Systems
@@ -502,14 +282,6 @@ DTEND;TZID=Europe/Brussels:20261016T180000
 UID:2821206-20261016-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
 LOCATION:03.010.NOO (62) leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IOT Project analysis
-DTSTART;TZID=Europe/Brussels:20261019T090000
-DTEND;TZID=Europe/Brussels:20261019T110000
-UID:2816298-20261019-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Groepsleren
-LOCATION:01.18.ELL (32) Projectlokaal IOT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -544,54 +316,6 @@ DESCRIPTION:Vanhulle\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261020T140000
-DTEND;TZID=Europe/Brussels:20261020T150000
-UID:2821530-20261020-1400@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Theorie
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261020T150000
-DTEND;TZID=Europe/Brussels:20261020T160000
-UID:2841217-20261020-1500@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Theorie
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261020T150000
-DTEND;TZID=Europe/Brussels:20261020T160000
-UID:2821581-20261020-1500@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261020T160000
-DTEND;TZID=Europe/Brussels:20261020T170000
-UID:2841268-20261020-1600@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261020T160000
-DTEND;TZID=Europe/Brussels:20261020T170000
-UID:2821584-20261020-1600@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261020T170000
-DTEND;TZID=Europe/Brussels:20261020T180000
-UID:2841271-20261020-1700@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PCB Design
 DTSTART;TZID=Europe/Brussels:20261021T100000
 DTEND;TZID=Europe/Brussels:20261021T130000
@@ -606,15 +330,6 @@ DTEND;TZID=Europe/Brussels:20261021T160000
 UID:2820906-20261021-1400@webuntis-sync
 DESCRIPTION:Michiels\n--------------------\nℹ️ Theorie
 LOCATION:02.01.ELL (87) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20261022T100000
-DTEND;TZID=Europe/Brussels:20261022T120000
-UID:2815578-20261022-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -649,14 +364,6 @@ DESCRIPTION:Nys\n--------------------\nℹ️ Labo
 LOCATION:03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IOT Project analysis
-DTSTART;TZID=Europe/Brussels:20261026T090000
-DTEND;TZID=Europe/Brussels:20261026T110000
-UID:2816304-20261026-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Groepsleren
-LOCATION:01.18.ELL (32) Projectlokaal IOT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Microcontrollers
 DTSTART;TZID=Europe/Brussels:20261026T110000
 DTEND;TZID=Europe/Brussels:20261026T130000
@@ -689,54 +396,6 @@ DESCRIPTION:Vanhulle\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261027T140000
-DTEND;TZID=Europe/Brussels:20261027T150000
-UID:2821533-20261027-1400@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Theorie
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261027T150000
-DTEND;TZID=Europe/Brussels:20261027T160000
-UID:2841220-20261027-1500@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Theorie
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261027T150000
-DTEND;TZID=Europe/Brussels:20261027T160000
-UID:2821587-20261027-1500@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261027T160000
-DTEND;TZID=Europe/Brussels:20261027T170000
-UID:2841274-20261027-1600@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261027T160000
-DTEND;TZID=Europe/Brussels:20261027T170000
-UID:2821590-20261027-1600@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261027T170000
-DTEND;TZID=Europe/Brussels:20261027T180000
-UID:2841277-20261027-1700@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PCB Design
 DTSTART;TZID=Europe/Brussels:20261028T100000
 DTEND;TZID=Europe/Brussels:20261028T130000
@@ -762,29 +421,12 @@ LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
   01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20261029T100000
-DTEND;TZID=Europe/Brussels:20261029T120000
-UID:2815587-20261029-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Project methodology
 DTSTART;TZID=Europe/Brussels:20261029T120000
 DTEND;TZID=Europe/Brussels:20261029T140000
 UID:2819958-20261029-1200@webuntis-sync
 DESCRIPTION:Van Eyken\n--------------------\nℹ️ Labo Communicatie
 LOCATION:03.09.ELL (30) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open labo IT
-DTSTART;TZID=Europe/Brussels:20261030T090000
-DTEND;TZID=Europe/Brussels:20261030T110000
-UID:2818551-20261030-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Open Labo
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronic Systems
@@ -801,14 +443,6 @@ DTEND;TZID=Europe/Brussels:20261030T180000
 UID:2821224-20261030-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
 LOCATION:-01.022.NOO (49) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IOT Project analysis
-DTSTART;TZID=Europe/Brussels:20261109T090000
-DTEND;TZID=Europe/Brussels:20261109T110000
-UID:2816310-20261109-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Groepsleren
-LOCATION:01.18.ELL (32) Projectlokaal IOT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -841,63 +475,6 @@ DTEND;TZID=Europe/Brussels:20261110T130000
 UID:2817588-20261110-1000@webuntis-sync
 DESCRIPTION:Vanhulle\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261110T140000
-DTEND;TZID=Europe/Brussels:20261110T150000
-UID:2821536-20261110-1400@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Theorie
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261110T150000
-DTEND;TZID=Europe/Brussels:20261110T160000
-UID:2841223-20261110-1500@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Theorie
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261110T150000
-DTEND;TZID=Europe/Brussels:20261110T160000
-UID:2821593-20261110-1500@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261110T160000
-DTEND;TZID=Europe/Brussels:20261110T170000
-UID:2841280-20261110-1600@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261110T160000
-DTEND;TZID=Europe/Brussels:20261110T170000
-UID:2821596-20261110-1600@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261110T170000
-DTEND;TZID=Europe/Brussels:20261110T180000
-UID:2841283-20261110-1700@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20261112T100000
-DTEND;TZID=Europe/Brussels:20261112T120000
-UID:2815596-20261112-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.18.ELL (32) Projectlokaal IOT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -933,14 +510,6 @@ DESCRIPTION:Nys\n--------------------\nℹ️ Labo
 LOCATION:03.08.ELL (40) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IOT Project analysis
-DTSTART;TZID=Europe/Brussels:20261116T090000
-DTEND;TZID=Europe/Brussels:20261116T110000
-UID:2816316-20261116-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Groepsleren
-LOCATION:01.18.ELL (32) Projectlokaal IOT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Microcontrollers
 DTSTART;TZID=Europe/Brussels:20261116T110000
 DTEND;TZID=Europe/Brussels:20261116T130000
@@ -973,54 +542,6 @@ DESCRIPTION:Vanhulle\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261117T140000
-DTEND;TZID=Europe/Brussels:20261117T150000
-UID:2821539-20261117-1400@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Theorie
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261117T150000
-DTEND;TZID=Europe/Brussels:20261117T160000
-UID:2841226-20261117-1500@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Theorie
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261117T150000
-DTEND;TZID=Europe/Brussels:20261117T160000
-UID:2821599-20261117-1500@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261117T160000
-DTEND;TZID=Europe/Brussels:20261117T170000
-UID:2841286-20261117-1600@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261117T160000
-DTEND;TZID=Europe/Brussels:20261117T170000
-UID:2821602-20261117-1600@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261117T170000
-DTEND;TZID=Europe/Brussels:20261117T180000
-UID:2841289-20261117-1700@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PCB Design
 DTSTART;TZID=Europe/Brussels:20261118T100000
 DTEND;TZID=Europe/Brussels:20261118T130000
@@ -1046,15 +567,6 @@ LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
   01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20261119T100000
-DTEND;TZID=Europe/Brussels:20261119T120000
-UID:2815605-20261119-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Project methodology
 DTSTART;TZID=Europe/Brussels:20261119T120000
 DTEND;TZID=Europe/Brussels:20261119T140000
@@ -1062,14 +574,6 @@ UID:2820252-20261119-1200@webuntis-sync
 DESCRIPTION:Van Eyken\n--------------------\nℹ️ Labo Project Methodolo
  gy
 LOCATION:03.09.ELL (30) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open labo IT
-DTSTART;TZID=Europe/Brussels:20261120T090000
-DTEND;TZID=Europe/Brussels:20261120T110000
-UID:2818557-20261120-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Open Labo
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronic Systems
@@ -1086,14 +590,6 @@ DTEND;TZID=Europe/Brussels:20261120T180000
 UID:2821242-20261120-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
 LOCATION:02.06.B.VIA (40) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IOT Project analysis
-DTSTART;TZID=Europe/Brussels:20261123T090000
-DTEND;TZID=Europe/Brussels:20261123T110000
-UID:2816322-20261123-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Groepsleren
-LOCATION:01.18.ELL (32) Projectlokaal IOT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -1128,54 +624,6 @@ DESCRIPTION:Vanhulle\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261124T140000
-DTEND;TZID=Europe/Brussels:20261124T150000
-UID:2821542-20261124-1400@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Theorie
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261124T150000
-DTEND;TZID=Europe/Brussels:20261124T160000
-UID:2841229-20261124-1500@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Theorie
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261124T150000
-DTEND;TZID=Europe/Brussels:20261124T160000
-UID:2821605-20261124-1500@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261124T160000
-DTEND;TZID=Europe/Brussels:20261124T170000
-UID:2841292-20261124-1600@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261124T160000
-DTEND;TZID=Europe/Brussels:20261124T170000
-UID:2821608-20261124-1600@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261124T170000
-DTEND;TZID=Europe/Brussels:20261124T180000
-UID:2841295-20261124-1700@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PCB Design
 DTSTART;TZID=Europe/Brussels:20261125T100000
 DTEND;TZID=Europe/Brussels:20261125T130000
@@ -1190,15 +638,6 @@ DTEND;TZID=Europe/Brussels:20261125T160000
 UID:2820924-20261125-1400@webuntis-sync
 DESCRIPTION:Michiels\n--------------------\nℹ️ Theorie
 LOCATION:02.01.ELL (87) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20261126T100000
-DTEND;TZID=Europe/Brussels:20261126T120000
-UID:2815614-20261126-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -1234,14 +673,6 @@ DESCRIPTION:Nys\n--------------------\nℹ️ Labo
 LOCATION:03.07.A.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IOT Project analysis
-DTSTART;TZID=Europe/Brussels:20261130T090000
-DTEND;TZID=Europe/Brussels:20261130T110000
-UID:2816328-20261130-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Groepsleren
-LOCATION:01.18.ELL (32) Projectlokaal IOT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Microcontrollers
 DTSTART;TZID=Europe/Brussels:20261130T110000
 DTEND;TZID=Europe/Brussels:20261130T130000
@@ -1274,54 +705,6 @@ DESCRIPTION:Vanhulle\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261201T140000
-DTEND;TZID=Europe/Brussels:20261201T150000
-UID:2821545-20261201-1400@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Theorie
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261201T150000
-DTEND;TZID=Europe/Brussels:20261201T160000
-UID:2841232-20261201-1500@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Theorie
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261201T150000
-DTEND;TZID=Europe/Brussels:20261201T160000
-UID:2821611-20261201-1500@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261201T160000
-DTEND;TZID=Europe/Brussels:20261201T170000
-UID:2841298-20261201-1600@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261201T160000
-DTEND;TZID=Europe/Brussels:20261201T170000
-UID:2821614-20261201-1600@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261201T170000
-DTEND;TZID=Europe/Brussels:20261201T180000
-UID:2841301-20261201-1700@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PCB Design
 DTSTART;TZID=Europe/Brussels:20261202T100000
 DTEND;TZID=Europe/Brussels:20261202T130000
@@ -1347,15 +730,6 @@ LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
   01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20261203T100000
-DTEND;TZID=Europe/Brussels:20261203T120000
-UID:2815623-20261203-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Project methodology
 DTSTART;TZID=Europe/Brussels:20261203T120000
 DTEND;TZID=Europe/Brussels:20261203T140000
@@ -1363,14 +737,6 @@ UID:2820264-20261203-1200@webuntis-sync
 DESCRIPTION:Van Eyken\n--------------------\nℹ️ Labo Project Methodolo
  gy
 LOCATION:03.09.ELL (30) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open labo IT
-DTSTART;TZID=Europe/Brussels:20261204T090000
-DTEND;TZID=Europe/Brussels:20261204T110000
-UID:2818563-20261204-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Open Labo
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronic Systems
@@ -1387,14 +753,6 @@ DTEND;TZID=Europe/Brussels:20261204T180000
 UID:2821260-20261204-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
 LOCATION:02.06.B.VIA (40) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IOT Project analysis
-DTSTART;TZID=Europe/Brussels:20261207T090000
-DTEND;TZID=Europe/Brussels:20261207T110000
-UID:2816334-20261207-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Groepsleren
-LOCATION:01.18.ELL (32) Projectlokaal IOT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -1429,54 +787,6 @@ DESCRIPTION:Vanhulle\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261208T140000
-DTEND;TZID=Europe/Brussels:20261208T150000
-UID:2821548-20261208-1400@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Theorie
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261208T150000
-DTEND;TZID=Europe/Brussels:20261208T160000
-UID:2841235-20261208-1500@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Theorie
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261208T150000
-DTEND;TZID=Europe/Brussels:20261208T160000
-UID:2821617-20261208-1500@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261208T160000
-DTEND;TZID=Europe/Brussels:20261208T170000
-UID:2841304-20261208-1600@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261208T160000
-DTEND;TZID=Europe/Brussels:20261208T170000
-UID:2821620-20261208-1600@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261208T170000
-DTEND;TZID=Europe/Brussels:20261208T180000
-UID:2841307-20261208-1700@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PCB Design
 DTSTART;TZID=Europe/Brussels:20261209T100000
 DTEND;TZID=Europe/Brussels:20261209T130000
@@ -1491,15 +801,6 @@ DTEND;TZID=Europe/Brussels:20261209T160000
 UID:2820936-20261209-1400@webuntis-sync
 DESCRIPTION:Michiels\n--------------------\nℹ️ Theorie
 LOCATION:02.01.ELL (87) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20261210T100000
-DTEND;TZID=Europe/Brussels:20261210T120000
-UID:2815632-20261210-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -1535,14 +836,6 @@ DESCRIPTION:Nys\n--------------------\nℹ️ Labo
 LOCATION:02.06.B.VIA (40) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IOT Project analysis
-DTSTART;TZID=Europe/Brussels:20261214T090000
-DTEND;TZID=Europe/Brussels:20261214T110000
-UID:2816340-20261214-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Groepsleren
-LOCATION:01.18.ELL (32) Projectlokaal IOT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Microcontrollers
 DTSTART;TZID=Europe/Brussels:20261214T110000
 DTEND;TZID=Europe/Brussels:20261214T130000
@@ -1575,54 +868,6 @@ DESCRIPTION:Vanhulle\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261215T140000
-DTEND;TZID=Europe/Brussels:20261215T150000
-UID:2821551-20261215-1400@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Theorie
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261215T150000
-DTEND;TZID=Europe/Brussels:20261215T160000
-UID:2841238-20261215-1500@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Theorie
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261215T150000
-DTEND;TZID=Europe/Brussels:20261215T160000
-UID:2821623-20261215-1500@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261215T160000
-DTEND;TZID=Europe/Brussels:20261215T170000
-UID:2841310-20261215-1600@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20261215T160000
-DTEND;TZID=Europe/Brussels:20261215T170000
-UID:2821626-20261215-1600@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20261215T170000
-DTEND;TZID=Europe/Brussels:20261215T180000
-UID:2841313-20261215-1700@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PCB Design
 DTSTART;TZID=Europe/Brussels:20261216T100000
 DTEND;TZID=Europe/Brussels:20261216T130000
@@ -1639,15 +884,6 @@ DESCRIPTION:Michiels\n--------------------\nℹ️ Theorie
 LOCATION:02.01.ELL (87) Aula
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20261217T100000
-DTEND;TZID=Europe/Brussels:20261217T120000
-UID:2815641-20261217-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Project methodology
 DTSTART;TZID=Europe/Brussels:20261217T120000
 DTEND;TZID=Europe/Brussels:20261217T140000
@@ -1655,14 +891,6 @@ UID:2820276-20261217-1200@webuntis-sync
 DESCRIPTION:Van Eyken\n--------------------\nℹ️ Labo Project Methodolo
  gy
 LOCATION:03.09.ELL (30) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open labo IT
-DTSTART;TZID=Europe/Brussels:20261218T090000
-DTEND;TZID=Europe/Brussels:20261218T110000
-UID:2818569-20261218-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Open Labo
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electronic Systems
@@ -1679,14 +907,6 @@ DTEND;TZID=Europe/Brussels:20261218T180000
 UID:2821278-20261218-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
 LOCATION:03.07.A.VIA (40) Projectlokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IOT Project analysis
-DTSTART;TZID=Europe/Brussels:20270104T090000
-DTEND;TZID=Europe/Brussels:20270104T110000
-UID:2816346-20270104-900@webuntis-sync
-DESCRIPTION:Van Merode\n--------------------\nℹ️ Groepsleren
-LOCATION:01.18.ELL (32) Projectlokaal IOT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -1721,54 +941,6 @@ DESCRIPTION:Vanhulle\n--------------------\nℹ️ Labo
 LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20270105T140000
-DTEND;TZID=Europe/Brussels:20270105T150000
-UID:2821554-20270105-1400@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Theorie
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20270105T150000
-DTEND;TZID=Europe/Brussels:20270105T160000
-UID:2841241-20270105-1500@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Theorie
-LOCATION:01.27.VIA (265) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20270105T150000
-DTEND;TZID=Europe/Brussels:20270105T160000
-UID:2821629-20270105-1500@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20270105T160000
-DTEND;TZID=Europe/Brussels:20270105T170000
-UID:2841316-20270105-1600@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot dynamics
-DTSTART;TZID=Europe/Brussels:20270105T160000
-DTEND;TZID=Europe/Brussels:20270105T170000
-UID:2821632-20270105-1600@webuntis-sync
-DESCRIPTION:Van Grieken / Verlinden\n--------------------\nℹ️ Labo
-LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation
-DTSTART;TZID=Europe/Brussels:20270105T170000
-DTEND;TZID=Europe/Brussels:20270105T180000
-UID:2841319-20270105-1700@webuntis-sync
-DESCRIPTION:Schraepen\n--------------------\nℹ️ Labo
-LOCATION:03.10.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PCB Design
 DTSTART;TZID=Europe/Brussels:20270106T100000
 DTEND;TZID=Europe/Brussels:20270106T130000
@@ -1783,15 +955,6 @@ DTEND;TZID=Europe/Brussels:20270106T160000
 UID:2820948-20270106-1400@webuntis-sync
 DESCRIPTION:Michiels\n--------------------\nℹ️ Theorie
 LOCATION:02.01.ELL (87) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideation for Maker
-DTSTART;TZID=Europe/Brussels:20270107T100000
-DTEND;TZID=Europe/Brussels:20270107T120000
-UID:2815650-20270107-1000@webuntis-sync
-DESCRIPTION:Hendrickx\n--------------------\nℹ️ Minor Maker: labo
-LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
- 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
