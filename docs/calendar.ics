@@ -1010,14 +1010,14 @@ UID:holiday-76@webuntis-sync
 DESCRIPTION:Geïmporteerd uit WebUntis
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏖️ O.L.H.-Hemelvaart
+SUMMARY:🏖️ O.L.H. - Hemelvaart
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 UID:holiday-79@webuntis-sync
 DESCRIPTION:Geïmporteerd uit WebUntis
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏖️ Zomervakantie voor studenten
+SUMMARY:🏖️ Zomervakantie voor Studenten
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270823
 UID:holiday-82@webuntis-sync
