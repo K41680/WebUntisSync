@@ -57,7 +57,7 @@ DTSTART;TZID=Europe/Brussels:20260925T150000
 DTEND;TZID=Europe/Brussels:20260925T180000
 UID:2821179-20260925-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -81,7 +81,7 @@ DTSTART;TZID=Europe/Brussels:20260928T160000
 DTEND;TZID=Europe/Brussels:20260928T180000
 UID:2824490-20260928-1600@webuntis-sync
 DESCRIPTION:Mariën\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -185,7 +185,7 @@ DTSTART;TZID=Europe/Brussels:20261008T120000
 DTEND;TZID=Europe/Brussels:20261008T140000
 UID:2819940-20261008-1200@webuntis-sync
 DESCRIPTION:Van Eyken\n--------------------\nℹ️ Labo Communicatie
-LOCATION:01.110.NOO (48) leslokaal
+LOCATION:NOO.01.110 (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Frameworks
@@ -209,7 +209,7 @@ DTSTART;TZID=Europe/Brussels:20261009T150000
 DTEND;TZID=Europe/Brussels:20261009T180000
 UID:2821197-20261009-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -233,7 +233,7 @@ DTSTART;TZID=Europe/Brussels:20261012T160000
 DTEND;TZID=Europe/Brussels:20261012T180000
 UID:2824496-20261012-1600@webuntis-sync
 DESCRIPTION:Mariën\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -281,7 +281,7 @@ DTSTART;TZID=Europe/Brussels:20261016T150000
 DTEND;TZID=Europe/Brussels:20261016T180000
 UID:2821206-20261016-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
-LOCATION:03.010.NOO (62) leslokaal
+LOCATION:03.010.NOO (62) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -361,7 +361,7 @@ DTSTART;TZID=Europe/Brussels:20261023T150000
 DTEND;TZID=Europe/Brussels:20261023T180000
 UID:2821215-20261023-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -385,7 +385,7 @@ DTSTART;TZID=Europe/Brussels:20261026T160000
 DTEND;TZID=Europe/Brussels:20261026T180000
 UID:2824502-20261026-1600@webuntis-sync
 DESCRIPTION:Mariën\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -442,7 +442,7 @@ DTSTART;TZID=Europe/Brussels:20261030T150000
 DTEND;TZID=Europe/Brussels:20261030T180000
 UID:2821224-20261030-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
-LOCATION:-01.022.NOO (49) Leslokaal
+LOCATION:-01.022.NOO (43) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -531,7 +531,7 @@ DTSTART;TZID=Europe/Brussels:20261116T160000
 DTEND;TZID=Europe/Brussels:20261116T180000
 UID:2824508-20261116-1600@webuntis-sync
 DESCRIPTION:Mariën\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -670,7 +670,7 @@ DTSTART;TZID=Europe/Brussels:20261127T150000
 DTEND;TZID=Europe/Brussels:20261127T180000
 UID:2821251-20261127-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
-LOCATION:03.07.A.VIA (40) Projectlokaal
+LOCATION:03.07.A.VIA (40) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -694,7 +694,7 @@ DTSTART;TZID=Europe/Brussels:20261130T160000
 DTEND;TZID=Europe/Brussels:20261130T180000
 UID:2824514-20261130-1600@webuntis-sync
 DESCRIPTION:Mariën\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -857,7 +857,7 @@ DTSTART;TZID=Europe/Brussels:20261214T160000
 DTEND;TZID=Europe/Brussels:20261214T180000
 UID:2824520-20261214-1600@webuntis-sync
 DESCRIPTION:Mariën\n--------------------\nℹ️ Labo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -906,7 +906,7 @@ DTSTART;TZID=Europe/Brussels:20261218T150000
 DTEND;TZID=Europe/Brussels:20261218T180000
 UID:2821278-20261218-1500@webuntis-sync
 DESCRIPTION:Nys\n--------------------\nℹ️ Labo
-LOCATION:03.07.A.VIA (40) Projectlokaal
+LOCATION:03.07.A.VIA (40) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microcontrollers
@@ -1017,7 +1017,7 @@ UID:holiday-79@webuntis-sync
 DESCRIPTION:Geïmporteerd uit WebUntis
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏖️ Zomervakantie voor Studenten
+SUMMARY:🏖️ Zomervakantie voor studenten
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270823
 UID:holiday-82@webuntis-sync
