@@ -27,6 +27,9 @@ If you want to use this, you only need to fork the repo and follow these steps:
     * `WEBUNTIS_FUTURE_CLASS_ID`: (Optional) The class ID for the *next* semester/group.
     * `SEMESTER_SWITCH_DATE`: (Optional) The date when the schedule switches to the new class (Format: `YYYY-MM-DD`).
     
+    **Optional Secret to ignore classes not taken in this year:**
+    * `WEBUNTIS_IGNORED_SUBJECTS`: (Optional) Sometimes you don't take all the classes in your class, you can ignore the ones you don't take by entering it's name (if it's more than one, seperate by comma).
+    
     *Note: Keep these secrets private. Do NOT commit passwords into the repository.*
 
 ### 3. Allow the workflow to update the repository
