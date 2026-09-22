@@ -50,9 +50,11 @@ jobs:
           WEBUNTIS_USERNAME: ${{ secrets.WEBUNTIS_USERNAME }}
           WEBUNTIS_PASSWORD: ${{ secrets.WEBUNTIS_PASSWORD }}
           WEBUNTIS_CLASS_ID: ${{ secrets.WEBUNTIS_CLASS_ID }}
-          # Optional secrets for future semester
+          # Optionele secrets voor toekomstig semester
           WEBUNTIS_FUTURE_CLASS_ID: ${{ secrets.WEBUNTIS_FUTURE_CLASS_ID }}
           SEMESTER_SWITCH_DATE: ${{ secrets.SEMESTER_SWITCH_DATE }}
+          # NIEUW: Optionele secret voor genegeerde vakken
+          WEBUNTIS_IGNORED_SUBJECTS: ${{ secrets.WEBUNTIS_IGNORED_SUBJECTS }}
         run: |
           python src/sync.py
 
