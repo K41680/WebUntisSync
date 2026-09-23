@@ -4,30 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:PCB Design
-DTSTART;TZID=Europe/Brussels:20260923T100000
-DTEND;TZID=Europe/Brussels:20260923T130000
-UID:2818575-20260923-1000@webuntis-sync
-DESCRIPTION:Luyts\n--------------------\nℹ️ Labo
-LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Python advanced
-DTSTART;TZID=Europe/Brussels:20260923T140000
-DTEND;TZID=Europe/Brussels:20260923T160000
-UID:2820882-20260923-1400@webuntis-sync
-DESCRIPTION:Michiels\n--------------------\nℹ️ Theorie
-LOCATION:02.01.ELL (87) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project methodology
-DTSTART;TZID=Europe/Brussels:20260923T160000
-DTEND;TZID=Europe/Brussels:20260923T180000
-UID:3152005-20260923-1600@webuntis-sync
-DESCRIPTION:Van Eyken\n--------------------\nℹ️ Labo Communicatie
-LOCATION:03.05.ELL (49) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Studay
 DTSTART;TZID=Europe/Brussels:20260924T130000
 DTEND;TZID=Europe/Brussels:20260924T220000
