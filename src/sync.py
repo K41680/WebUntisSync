@@ -18,7 +18,9 @@ def load_config():
             'class_id': os.environ.get('WEBUNTIS_CLASS_ID'),
             'future_class_id': os.environ.get('WEBUNTIS_FUTURE_CLASS_ID'),
             'switch_date': os.environ.get('SEMESTER_SWITCH_DATE'),
-            'ignored_subjects': os.environ.get('WEBUNTIS_IGNORED_SUBJECTS')
+            'ignored_subjects': os.environ.get('WEBUNTIS_IGNORED_SUBJECTS'),
+            'extra_class_id': os.environ.get('WEBUNTIS_EXTRA_CLASS_ID'),
+            'extra_subjects': os.environ.get('WEBUNTIS_EXTRA_SUBJECTS')
         }
     
     if os.path.exists('config.json'):
@@ -55,8 +57,6 @@ def webuntis_login(config):
 
 def get_element_id(session, config, session_id, override_class_id=None):
     target_id_str = override_class_id if override_class_id else config.get('class_id')
-    if target_id_str:
-        return int(target_id_str), 1
     
     url = f"https://{config['server']}/WebUntis/jsonrpc.do?school={config['school']}"
     headers = {"Cookie": f"JSESSIONID={session_id}"}
@@ -64,30 +64,32 @@ def get_element_id(session, config, session_id, override_class_id=None):
     data = {"id": "WebUntisSync", "method": "getKlassen", "params": {}, "jsonrpc": "2.0"}
     response = session.post(url, json=data, headers=headers)
     result = response.json()
+    
+    if target_id_str and 'result' in result:
+        target_str_lower = str(target_id_str).strip().lower()
+        for c in result['result']:
+            if str(c['id']) == target_str_lower or \
+               c.get('name', '').lower() == target_str_lower or \
+               c.get('longName', '').lower() == target_str_lower:
+                print(f"📚 Resolved Class '{c.get('name')}' to ID: {c['id']}")
+                return c['id'], 1
+
     if 'result' in result and len(result['result']) > 0:
         first_class = result['result'][0]
-        print(f"📚 Auto-detected class: {first_class['name']} (ID: {first_class['id']})")
+        print(f"⚠️ Could not exact match '{target_id_str}'. Auto-detecting first available: {first_class['name']} (ID: {first_class['id']})")
         return first_class['id'], 1
     
-    data = {"id": "WebUntisSync", "method": "getStudents", "params": {}, "jsonrpc": "2.0"}
-    response = session.post(url, json=data, headers=headers)
-    result = response.json()
-    if 'result' in result and len(result['result']) > 0:
-        student = result['result'][0]
-        print(f"👤 Auto-detected student: {student.get('name', 'Unknown')} (ID: {student['id']})")
-        return student['id'], 5
-    
-    raise Exception("Could not find any Class or Student ID.")
+    raise Exception(f"Could not find any Class ID for {target_id_str}.")
 
 # --- API CALLS: TIMETABLE & HOLIDAYS ---
 
 def get_timetable_chunked(session, config, session_id, element_id, element_type, start_date, end_date):
     full_timetable = []
-    chunk_size = 14 
+    chunk_days = 7
     current_start = start_date
     
-    while current_start < end_date:
-        current_end = min(current_start + timedelta(days=chunk_size), end_date)
+    while current_start <= end_date:
+        current_end = min(current_start + timedelta(days=chunk_days - 1), end_date)
         url = f"https://{config['server']}/WebUntis/jsonrpc.do?school={config['school']}"
         data = {
             "id": "WebUntisSync",
@@ -111,9 +113,7 @@ def get_timetable_chunked(session, config, session_id, element_id, element_type,
         try:
             response = session.post(url, json=data, headers=headers)
             result = response.json()
-            if 'error' in result:
-                print(f"   ⚠️ Error fetching chunk {current_start}: {result['error']['message']}")
-            else:
+            if 'error' not in result:
                 items = result.get('result', [])
                 full_timetable.extend(items)
         except Exception as e:
@@ -236,35 +236,52 @@ def sync_calendar():
     session, session_id = webuntis_login(config)
     today = datetime.now().date()
     
-    # 1. Beveiligde Startdatum Berekening
-    # WebUntis crasht als we het vorige schooljaar (voor midden augustus) bevragen.
-    past_limit = today - timedelta(days=14)
-    schoolyear_start = date(today.year if today.month >= 8 else today.year - 1, 8, 15)
-    start_date_current = max(past_limit, schoolyear_start)
+    start_year = today.year if today.month >= 9 else today.year - 1
+    schoolyear_start = date(start_year, 9, 1)
+    schoolyear_end = date(start_year + 1, 9, 30)
     
     if config.get('switch_date'):
         try: switch_date = datetime.strptime(config['switch_date'], "%Y-%m-%d").date()
-        except ValueError: switch_date = today + timedelta(days=28)
+        except ValueError: switch_date = schoolyear_end
     else:
-        switch_date = today + timedelta(days=28)
+        switch_date = schoolyear_end
 
+    start_date_current = schoolyear_start
     end_date_current = switch_date
     start_date_future = switch_date
-    end_date_future = today + timedelta(days=155)
+    end_date_future = schoolyear_end
 
     raw_timetable = []
 
-    print(f"🔍 Fetching CURRENT period ({start_date_current} to {end_date_current})")
+    print(f"🔍 Fetching CURRENT period ({start_date_current} to {end_date_current}) for main class...")
     element_id_curr, element_type_curr = get_element_id(session, config, session_id)
     if start_date_current < end_date_current:
         raw_timetable.extend(get_timetable_chunked(session, config, session_id, element_id_curr, element_type_curr, start_date_current, end_date_current))
     
-    if start_date_future < end_date_future:
+    if start_date_future < end_date_future and config.get('future_class_id'):
         future_class_id = config.get('future_class_id')
-        override_id = future_class_id if future_class_id and future_class_id.strip() != "" else None
-        print(f"🔍 Fetching FUTURE period ({start_date_future} to {end_date_future})")
+        override_id = future_class_id if future_class_id.strip() != "" else None
+        print(f"🔍 Fetching FUTURE period ({start_date_future} to {end_date_future}) for main class...")
         element_id_fut, element_type_fut = get_element_id(session, config, session_id, override_class_id=override_id)
         raw_timetable.extend(get_timetable_chunked(session, config, session_id, element_id_fut, element_type_fut, start_date_future, end_date_future))
+
+    extra_class_id = config.get('extra_class_id')
+    extra_subjects = config.get('extra_subjects')
+    
+    if extra_class_id and extra_subjects:
+        print(f"🔍 Fetching EXTRA class ({extra_class_id}) for specific subjects...")
+        extra_list = [s.strip().lower() for s in extra_subjects.split(',')]
+        
+        extra_id, extra_type = get_element_id(session, config, session_id, override_class_id=extra_class_id)
+        raw_extra = get_timetable_chunked(session, config, session_id, extra_id, extra_type, schoolyear_start, schoolyear_end)
+        
+        for raw in raw_extra:
+            su = raw.get('su', [])
+            names = {s.get('name', '').lower() for s in su if s.get('name')} | \
+                    {s.get('longname', '').lower() for s in su if s.get('longname')}
+            
+            if any(ext in names for ext in extra_list):
+                raw_timetable.append(raw)
 
     print(f"🌴 Fetching holidays...")
     holidays_data = get_holidays(session, config, session_id)
@@ -279,7 +296,6 @@ def sync_calendar():
     cal.add('x-wr-timezone', 'Europe/Brussels')
     timezone = pytz.timezone('Europe/Brussels')
     
-    # Voeg de reguliere lessen toe
     for lesson in processed_lessons:
         event = Event()
         s_subjects = sorted(list(lesson.subjects))
@@ -305,15 +321,12 @@ def sync_calendar():
         event.add('uid', f"{lesson.id}-{lesson.date}-{lesson.start_time}@webuntis-sync")
         cal.add_component(event)
 
-    # Voeg de feestdagen toe als hele dag evenementen (zoals de blauwe vlakken)
     for holiday in holidays_data:
         try:
             h_start = datetime.strptime(str(holiday['startDate']), "%Y%m%d").date()
-            # In iCal moeten 'hele dag'-evenementen exclusief op de volgende dag eindigen
             h_end = datetime.strptime(str(holiday['endDate']), "%Y%m%d").date() + timedelta(days=1)
             
-            # Voorkom dat we vakanties van ver in het verleden toevoegen
-            if h_end < start_date_current: continue
+            if h_end < schoolyear_start or h_start > schoolyear_end: continue
 
             event = Event()
             name = holiday.get('longName') or holiday.get('name', 'Feestdag')
